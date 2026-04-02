@@ -14,11 +14,19 @@ from openai import OpenAI
 
 # ── Config ─────────────────────────────────────────────────
 
-API_KEY = st.secrets.get("NAVER_API_KEY", os.environ.get("NAVER_API_KEY", ""))
+try:
+    API_KEY = st.secrets["NAVER_API_KEY"]
+except (KeyError, FileNotFoundError):
+    API_KEY = os.environ.get("NAVER_API_KEY", "")
+
 BASE_URL = "https://namc-aigw.io.naver.com/v1"
 EMBED_MODEL = "bge-m3"
 CHAT_MODEL = "Qwen3.5-27B"
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "src", "lib", "rag-index.json")
+
+if not API_KEY:
+    st.error("⚠️ NAVER_API_KEY가 설정되지 않았습니다. Streamlit Cloud > Settings > Secrets에서 설정해주세요.")
+    st.stop()
 
 client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
 
@@ -199,8 +207,12 @@ if prompt:
     with st.chat_message("assistant"):
         t0 = time.time()
         api_messages = [{"role": m["role"], "content": m["content"]} for m in st.session_state.messages]
-        response = st.write_stream(stream_response(api_messages))
-        elapsed = time.time() - t0
-        st.caption(f"⏱️ {elapsed:.1f}초")
+        try:
+            response = st.write_stream(stream_response(api_messages))
+            elapsed = time.time() - t0
+            st.caption(f"⏱️ {elapsed:.1f}초")
+        except Exception as e:
+            response = f"⚠️ 오류가 발생했습니다: {e}"
+            st.error(response)
 
     st.session_state.messages.append({"role": "assistant", "content": response})
