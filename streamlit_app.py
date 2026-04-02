@@ -153,9 +153,7 @@ def stream_response(messages: list[dict]):
         max_tokens=8192,
     ) as stream:
         for text in stream.text_stream:
-            # Yield character-by-character for typewriter effect
-            for ch in text:
-                yield ch
+            yield text
 
 
 # ── Streamlit UI ───────────────────────────────────────────
@@ -206,12 +204,17 @@ if prompt:
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # Stream assistant response (tokens appear one by one, no page reload)
+    # Stream assistant response with manual rendering for smooth output
     with st.chat_message("assistant"):
         t0 = time.time()
         api_messages = [{"role": m["role"], "content": m["content"]} for m in st.session_state.messages]
+        placeholder = st.empty()
+        response = ""
         try:
-            response = st.write_stream(stream_response(api_messages))
+            for chunk in stream_response(api_messages):
+                response += chunk
+                placeholder.markdown(response + " ▌")
+            placeholder.markdown(response)
             elapsed = time.time() - t0
             st.caption(f"⏱️ {elapsed:.1f}초")
         except Exception as e:
