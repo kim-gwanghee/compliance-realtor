@@ -1,34 +1,32 @@
 """
 부동산 법령 AI 어드바이저 — Streamlit Chat UI
-RAG index (rag-index.json) + Naver Open Models API (Qwen3.5-27B)
+TF-IDF 검색 + Anthropic Claude
 """
 
 import json
-import math
 import os
 import time
 
-import numpy as np
 import streamlit as st
-from openai import OpenAI
+import anthropic
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # ── Config ─────────────────────────────────────────────────
 
 try:
-    API_KEY = st.secrets["NAVER_API_KEY"]
+    API_KEY = st.secrets["ANTHROPIC_API_KEY"]
 except (KeyError, FileNotFoundError):
-    API_KEY = os.environ.get("NAVER_API_KEY", "")
+    API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
-BASE_URL = "https://namc-aigw.io.naver.com/v1"
-EMBED_MODEL = "bge-m3"
-CHAT_MODEL = "Qwen3.5-27B"
-INDEX_PATH = os.path.join(os.path.dirname(__file__), "src", "lib", "rag-index.json")
+CHAT_MODEL = "claude-sonnet-4-20250514"
+INDEX_PATH = os.path.join(os.path.dirname(__file__), "src", "lib", "rag-index-lean.json")
 
 if not API_KEY:
-    st.error("⚠️ NAVER_API_KEY가 설정되지 않았습니다. Streamlit Cloud > Settings > Secrets에서 설정해주세요.")
+    st.error("⚠️ ANTHROPIC_API_KEY가 설정되지 않았습니다. Streamlit Cloud > Settings > Secrets에서 설정해주세요.")
     st.stop()
 
-client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
+client = anthropic.Anthropic(api_key=API_KEY)
 
 SYSTEM_BASE = """당신은 공인중개사 업무에 특화된 법령 정보 안내 AI입니다.
 법률 자문이 아닌 법령 정보를 안내합니다.
@@ -63,44 +61,44 @@ SYSTEM_BASE = """당신은 공인중개사 업무에 특화된 법령 정보 안
 최신 개정 여부는 국가법령정보센터(law.go.kr)에서 확인하시기 바랍니다."""
 
 
-# ── Load RAG index (cached) ───────────────────────────────
+# ── Load RAG index + TF-IDF (cached) ──────────────────────
 
 @st.cache_resource(show_spinner="법령 인덱스 로딩 중...")
 def load_index():
     with open(INDEX_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
-    # Pre-convert embeddings to numpy for fast cosine similarity
-    for chunk in data["chunks"]:
-        chunk["embedding"] = np.array(chunk["embedding"], dtype=np.float32)
-    return data
+    chunks = data["chunks"]
+    texts = [c["text"] for c in chunks]
+    # Character n-gram TF-IDF — works for Korean without tokenizer
+    vectorizer = TfidfVectorizer(
+        analyzer="char_wb",
+        ngram_range=(2, 4),
+        max_features=50000,
+    )
+    tfidf_matrix = vectorizer.fit_transform(texts)
+    return chunks, vectorizer, tfidf_matrix
 
 
-# ── RAG search ─────────────────────────────────────────────
-
-def embed_query(query: str) -> np.ndarray:
-    res = client.embeddings.create(model=EMBED_MODEL, input=[query])
-    return np.array(res.data[0].embedding, dtype=np.float32)
-
+# ── RAG search (TF-IDF) ───────────────────────────────────
 
 def search_laws(query: str, top_k: int = 20):
-    index = load_index()
-    q_emb = embed_query(query)
-    q_norm = np.linalg.norm(q_emb)
+    chunks, vectorizer, tfidf_matrix = load_index()
+    q_vec = vectorizer.transform([query])
+    scores = cosine_similarity(q_vec, tfidf_matrix).flatten()
+    top_indices = scores.argsort()[::-1][:top_k]
 
-    scored = []
-    for chunk in index["chunks"]:
-        c_emb = chunk["embedding"]
-        score = float(np.dot(q_emb, c_emb) / (q_norm * np.linalg.norm(c_emb)))
-        scored.append({
-            "law": chunk["law"],
-            "chapter": chunk["chapter"],
-            "article": chunk["article"],
-            "text": chunk["text"],
-            "score": score,
-        })
-
-    scored.sort(key=lambda x: x["score"], reverse=True)
-    return scored[:top_k]
+    results = []
+    for idx in top_indices:
+        if scores[idx] > 0:
+            c = chunks[idx]
+            results.append({
+                "law": c["law"],
+                "chapter": c["chapter"],
+                "article": c["article"],
+                "text": c["text"],
+                "score": float(scores[idx]),
+            })
+    return results
 
 
 def build_rag_context(query: str) -> str:
@@ -141,18 +139,21 @@ def stream_response(messages: list[dict]):
 
     system_prompt = _build_system_prompt(query)
 
-    stream = client.chat.completions.create(
-        model=CHAT_MODEL,
-        messages=[{"role": "system", "content": system_prompt}] + messages,
-        max_tokens=8192,
-        stream=True,
-        extra_body={"chat_template_kwargs": {"enable_thinking": False}},
-    )
+    # Filter to only user/assistant messages for Claude
+    chat_messages = [
+        {"role": m["role"], "content": m["content"]}
+        for m in messages
+        if m["role"] in ("user", "assistant")
+    ]
 
-    for chunk in stream:
-        delta = chunk.choices[0].delta.content
-        if delta:
-            yield delta
+    with client.messages.stream(
+        model=CHAT_MODEL,
+        system=system_prompt,
+        messages=chat_messages,
+        max_tokens=8192,
+    ) as stream:
+        for text in stream.text_stream:
+            yield text
 
 
 # ── Streamlit UI ───────────────────────────────────────────
