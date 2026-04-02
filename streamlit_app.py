@@ -153,7 +153,9 @@ def stream_response(messages: list[dict]):
         max_tokens=8192,
     ) as stream:
         for text in stream.text_stream:
-            yield text
+            # Yield character-by-character for typewriter effect
+            for ch in text:
+                yield ch
 
 
 # ── Streamlit UI ───────────────────────────────────────────
