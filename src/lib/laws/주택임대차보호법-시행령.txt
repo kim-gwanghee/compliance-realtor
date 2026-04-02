@@ -1,0 +1,314 @@
+주택임대차보호법 시행령
+
+법제처 국가법령정보센터
+법제처 국가법령정보센터
+
+주택임대차보호법 시행령
+주택임대차보호법 시행령
+
+[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]
+법무부(법무심의관실) 02-2110-3164
+국토교통부(주택임대차기획팀) 044-201-3348, 4178
+제1조(목적)
+이 영은 「주택임대차보호법」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.
+[전문개정 2008. 8. 21.]
+제2조(대항력이 인정되는 법인)
+「주택임대차보호법」(이하 “법”이라 한다) 제3조제2항 후단에서 “대항력이 인정되는 법인”이란 다음 각 호의 법인을 말한다.
+<개정 2009. 9. 21., 2020. 9. 29.>
+1. 「한국토지주택공사법」에 따른 한국토지주택공사(이하 “공사”라 한다)
+2. 「지방공기업법」 제49조에 따라 주택사업을 목적으로 설립된 지방공사
+[전문개정 2008. 8. 21.]
+[제1조의2에서 이동, 종전 제2조는 제8조로 이동  <2013. 12. 30.>]
+제2조의2
+[제9조로 이동 <2013. 12. 30.>]
+제3조(고유식별정보의 처리)
+다음 각 호의 어느 하나에 해당하는 자는 법 제3조의6에 따른 확정일자 부여 및 임대차 정보제공 등에 관한 사무를 수행하기 위하여 불가피한 경우 「개인정보 보호법 시행령」 제19조제1호 및 제4호에 따른 주민등록번호 및 외국인등록번호를 처리할 수 있다.
+<개정 2016. 1. 22.>
+1. 시장(「제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법」 제11조에 따른 행정시장을 포함하며, 특별시장ㆍ광역시장ㆍ특별자치시장은 제외한다), 군수 또는 구청장(자치구의 구청장을 말한다)
+2. 읍ㆍ면ㆍ동의 장
+3. 「공증인법」에 따른 공증인
+[전문개정 2013. 12. 30.]
+[제1조의3에서 이동, 종전 제3조는 제10조로 이동 <2013. 12. 30.>]
+제4조(확정일자부 기재사항 등)
+① 법 제3조의6제1항에 따른 확정일자부여기관(지방법원 및 그 지원과 등기소는 제외하며, 이하 “확정일자부여기관”이라 한다)이 같은 조 제2항에 따라 작성하는 확정일자부에 기재하여야 할 사항은 다음 각 호와 같다.
+1. 확정일자번호
+2. 확정일자 부여일
+3. 임대인ㆍ임차인의 인적사항
+가. 자연인인 경우
+성명, 주소, 주민등록번호(외국인은 외국인등록번호)
+나. 법인이거나 법인 아닌 단체인 경우
+법인명ㆍ단체명, 법인등록번호ㆍ부동산등기용등록번호, 본점ㆍ주사무소 소재지
+4. 주택 소재지
+5. 임대차 목적물
+6. 임대차 기간
+7. 차임ㆍ보증금
+8. 신청인의 성명과 주민등록번호 앞 6자리(외국인은 외국인등록번호 앞 6자리)
+② 확정일자는 확정일자번호, 확정일자 부여일 및 확정일자부여기관을 주택임대차계약증서에 표시하는 방법으로 부여한다.
+③ 제1항 및 제2항에서 규정한 사항 외에 확정일자부 작성방법 및 확정일자 부여 시 확인사항 등 확정일자 부여 사무에 관하여 필요한 사항은 법무부령으로 정한다.
+[본조신설 2013. 12. 30.]
+[종전 제4조는 제11조로 이동 <2013. 12. 30.>]
+제5조(주택의 임대차에 이해관계가 있는 자의 범위)
+법 제3조의6제3항에 따라 정보제공을 요청할 수 있는 주택의 임대차에 이해관계가 있는 자(이하 “이해관계인”이라 한다)는 다음 각 호의 어느 하나에 해당하는 자로 한다.
+<개정 2020. 9. 29.>
+1. 해당 주택의 임대인ㆍ임차인
+2. 해당 주택의 소유자
+3. 해당 주택 또는 그 대지의 등기기록에 기록된 권리자 중 법무부령으로 정하는 자
+4. 법 제3조의2제7항에 따라 우선변제권을 승계한 금융기관
+5. 법 제6조의3제1항제8호의 사유로 계약의 갱신이 거절된 임대차계약의 임차인이었던 자
+6. 제1호부터 제5호까지의 규정에 준하는 지위 또는 권리를 가지는 자로서 법무부령으로 정하는 자
+[본조신설 2013. 12. 30.]
+[종전 제5조는 제12조로 이동 <2013. 12. 30.>]
+제6조(요청할 수 있는 정보의 범위 및 제공방법)
+① 제5조제1호 또는 제5호에 해당하는 자는 법 제3조의6제3항에 따라 확정일자부여기관에 해당 임대차계약(제5조제5호에 해당하는 자의 경우에는 갱신요구가 거절되지 않았더라면 갱신되었을 기간 중에 존속하는 임대차계약을 말한다)에 관한 다음 각 호의 사항의 열람 또는 그 내용을 기록한 서면의 교부를 요청할 수 있다.
+<개정 2020. 9. 29.>
+1. 임대차목적물
+2. 임대인ㆍ임차인의 인적사항(제5조제5호에 해당하는 자는 임대인ㆍ임차인의 성명, 법인명 또는 단체명으로 한정한다)
+3. 확정일자 부여일
+4. 차임ㆍ보증금
+5. 임대차기간
+② 제5조제2호부터 제4호까지 또는 제6호의 어느 하나에 해당하는 자이거나 임대차계약을 체결하려는 자는 법 제3조의6제3항 또는 제4항에 따라 확정일자부여기관에 다음 각 호의 사항의 열람 또는 그 내용을 기록한 서면의 교부를 요청할 수 있다.
+<개정 2020. 9. 29.>
+1. 임대차목적물
+2. 확정일자 부여일
+3. 차임ㆍ보증금
+4. 임대차기간
+③ 제1항 및 제2항에서 규정한 사항 외에 정보제공 요청에 필요한 사항은 법무부령으로 정한다.
+[본조신설 2013. 12. 30.]
+[종전 제6조는 제13조로 이동 <2013. 12. 30.>]
+제7조(수수료)
+① 법 제3조의6제5항에 따라 확정일자부여기관에 내야 하는 수수료는 확정일자 부여에 관한 수수료와 정보제공에 관한 수수료로 구분하며, 그 구체적인 금액은 법무부령으로 정한다.
+② 「국민기초생활 보장법」에 따른 수급자 등 법무부령으로 정하는 사람에 대해서는 제1항에 따른 수수료를 면제할 수 있다.
+[본조신설 2013. 12. 30.]
+[종전 제7조는 제14조로 이동 <2013. 12. 30.>]
+제8조(차임 등 증액청구의 기준 등)
+① 법 제7조에 따른 차임이나 보증금(이하 “차임등”이라 한다)의 증액청구는 약정한 차임등의 20분의 1의 금액을 초과하지 못한다.
+② 제1항에 따른 증액청구는 임대차계약 또는 약정한 차임등의 증액이 있은 후 1년 이내에는 하지 못한다.
+[전문개정 2008. 8. 21.]
+[제2조에서 이동, 종전 제8조는 제15조로 이동 <2013. 12. 30.>]
+제9조(월차임 전환 시 산정률)
+① 법 제7조의2제1호에서 “대통령령으로 정하는 비율”이란 연 1할을 말한다.
+② 법 제7조의2제2호에서 “대통령령으로 정하는 이율”이란 연 2퍼센트를 말한다.
+<개정 2016. 11. 29., 2020. 9. 29.>
+[전문개정 2013. 12. 30.]
+[제2조의2에서 이동, 종전 제9조는 제16조로 이동 <2013. 12. 30.>]
+제10조(보증금 중 일정액의 범위 등)
+① 법 제8조에 따라 우선변제를 받을 보증금 중 일정액의 범위는 다음 각 호의 구분에 의한 금액 이하로 한다.
+<개정 2010. 7. 21., 2013. 12. 30., 2016. 3. 31., 2018. 9. 18., 2021. 5. 11., 2023. 2. 21.>
+1. 서울특별시: 5천500만원
+2. 「수도권정비계획법」에 따른 과밀억제권역(서울특별시는 제외한다), 세종특별자치시, 용인시, 화성시 및 김포시: 4천800만원
+3. 광역시(「수도권정비계획법」에 따른 과밀억제권역에 포함된 지역과 군지역은 제외한다), 안산시, 광주시, 파주시, 이천시 및 평택시: 2천800만원
+4. 그 밖의 지역: 2천500만원
+② 임차인의 보증금 중 일정액이 주택가액의 2분의 1을 초과하는 경우에는 주택가액의 2분의 1에 해당하는 금액까지만 우선변제권이 있다.
+③ 하나의 주택에 임차인이 2명 이상이고, 그 각 보증금 중 일정액을 모두 합한 금액이 주택가액의 2분의 1을 초과하는 경우에는 그 각 보증금 중 일정액을 모두 합한 금액에 대한 각 임차인의 보증금 중 일정액의 비율로 그 주택가액의 2분의 1에 해당하는 금액을 분할한 금액을 각 임차인의 보증금 중 일정액으로 본다.
+④ 하나의 주택에 임차인이 2명 이상이고 이들이 그 주택에서 가정공동생활을 하는 경우에는 이들을 1명의 임차인으로 보아 이들의 각 보증금을 합산한다.
+[전문개정 2008. 8. 21.]
+[제3조에서 이동, 종전 제10조는 제17조로 이동 <2013. 12. 30.>]
+제11조(우선변제를 받을 임차인의 범위)
+법 제8조에 따라 우선변제를 받을 임차인은 보증금이 다음 각 호의 구분에 의한 금액 이하인 임차인으로 한다.
+<개정 2010. 7. 21., 2013. 12. 30., 2016. 3. 31., 2018. 9. 18., 2021. 5. 11., 2023. 2. 21.>
+1. 서울특별시: 1억6천500만원
+2. 「수도권정비계획법」에 따른 과밀억제권역(서울특별시는 제외한다), 세종특별자치시, 용인시, 화성시 및 김포시: 1억4천500만원
+3. 광역시(「수도권정비계획법」에 따른 과밀억제권역에 포함된 지역과 군지역은 제외한다), 안산시, 광주시, 파주시, 이천시 및 평택시: 8천500만원
+4. 그 밖의 지역: 7천500만원
+[전문개정 2008. 8. 21.]
+[제4조에서 이동, 종전 제11조는 제18조로 이동 <2013. 12. 30.>]
+제12조(주택임대차위원회의 구성)
+법 제8조의2제4항제6호에서 “대통령령으로 정하는 사람”이란 다음 각 호의 어느 하나에 해당하는 사람을 말한다.
+<개정 2017. 5. 29.>
+1. 특별시ㆍ광역시ㆍ특별자치시ㆍ도 및 특별자치도(이하 “시ㆍ도”라 한다)에서 주택정책 또는 부동산 관련 업무를 담당하는 주무부서의 실ㆍ국장
+2. 법무사로서 5년 이상 해당 분야에서 종사하고 주택임대차 관련 업무 경험이 풍부한 사람
+[본조신설 2009. 7. 30.]
+[제5조에서 이동, 종전 제12조는 제19조로 이동 <2013. 12. 30.>]
+제13조(위원의 임기 등)
+① 법 제8조의2에 따른 주택임대차위원회(이하 “위원회”라 한다)의 위원의 임기는 2년으로 하되, 한 차례만 연임할 수 있다. 다만, 공무원인 위원의 임기는 그 직위에 재직하는 기간으로 한다.
+<개정 2016. 3. 31.>
+② 위원장은 위촉된 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해촉할 수 있다.
+<개정 2016. 3. 31.>
+1. 심신장애로 인하여 직무를 수행할 수 없게 된 경우
+2. 직무와 관련한 형사사건으로 기소된 경우
+3. 직무태만, 품위손상, 그 밖의 사유로 인하여 위원으로 적합하지 아니하다고 인정되는 경우
+4. 위원 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우
+[본조신설 2009. 7. 30.]
+[제6조에서 이동, 종전 제13조는 제20조로 이동 <2013. 12. 30.>]
+제14조(위원장의 직무)
+① 위원장은 위원회를 대표하고, 위원회의 업무를 총괄한다.
+② 위원장이 부득이한 사유로 인하여 직무를 수행할 수 없을 때에는 위원장이 미리 지명한 위원이 그 직무를 대행한다.
+[본조신설 2009. 7. 30.]
+[제7조에서 이동 <2013. 12. 30.>]
+제15조(간사)
+① 위원회에 간사 1명을 두되, 간사는 주택임대차 관련 업무에 종사하는 법무부 소속의 고위공무원단에 속하는 일반직 공무원(이에 상당하는 특정직ㆍ별정직 공무원을 포함한다) 중에서 위원회의 위원장이 지명한다.
+② 간사는 위원회의 운영을 지원하고, 위원회의 회의에 관한 기록과 그 밖에 서류의 작성과 보관에 관한 사무를 처리한다.
+③ 간사는 위원회에 참석하여 심의사항을 설명하거나 그 밖에 필요한 발언을 할 수 있다.
+[본조신설 2009. 7. 30.]
+[제8조에서 이동 <2013. 12. 30.>]
+제16조(위원회의 회의)
+① 위원회의 회의는 매년 1회 개최되는 정기회의와 위원장이 필요하다고 인정하거나 위원 3분의 1 이상이 요구할 경우에 개최되는 임시회의로 구분하여 운영한다.
+② 위원장은 위원회의 회의를 소집하고, 그 의장이 된다.
+③ 위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다.
+④ 위원회의 회의는 비공개로 한다.
+⑤ 위원장은 위원이 아닌 자를 회의에 참석하게 하여 의견을 듣거나 관계 기관ㆍ단체 등에게 필요한 자료, 의견 제출 등 협조를 요청할 수 있다.
+[본조신설 2009. 7. 30.]
+[제9조에서 이동 <2013. 12. 30.>]
+제17조(실무위원회)
+① 위원회에서 심의할 안건의 협의를 효율적으로 지원하기 위하여 위원회에 실무위원회를 둔다.
+② 실무위원회는 다음 각 호의 사항을 협의ㆍ조정한다.
+1. 심의안건 및 이와 관련하여 위원회가 위임한 사항
+2. 그 밖에 위원장 및 위원이 실무협의를 요구하는 사항
+③ 실무위원회의 위원장은 위원회의 간사가 되고, 실무위원회의 위원은 다음 각 호의 사람 중에서 그 소속기관의 장이 지명하는 사람으로 한다.
+<개정 2013. 3. 23., 2025. 12. 30.>
+1. 재정경제부에서 물가 관련 업무를 담당하는 5급 이상의 국가공무원
+2. 법무부에서 주택임대차 관련 업무를 담당하는 5급 이상의 국가공무원
+3. 국토교통부에서 주택사업 또는 주거복지 관련 업무를 담당하는 5급 이상의 국가공무원
+4. 시ㆍ도에서 주택정책 또는 부동산 관련 업무를 담당하는 5급 이상의 지방공무원
+[본조신설 2009. 7. 30.]
+[제10조에서 이동 <2013. 12. 30.>]
+제18조(전문위원)
+① 위원회의 심의사항에 관한 전문적인 조사ㆍ연구업무를 수행하기 위하여 5명 이내의 전문위원을 둘 수 있다.
+② 전문위원은 법학, 경제학 또는 부동산학 등에 학식과 경험을 갖춘 사람 중에서 법무부장관이 위촉하고, 임기는 2년으로 한다.
+[본조신설 2009. 7. 30.]
+[제11조에서 이동 <2013. 12. 30.>]
+제19조(수당)
+위원회 또는 실무위원회 위원에 대해서는 예산의 범위에서 수당을 지급할 수 있다. 다만, 공무원인 위원이 그 소관 업무와 직접적으로 관련되어 위원회에 출석하는 경우에는 그러하지 아니하다.
+[본조신설 2009. 7. 30.]
+[제12조에서 이동 <2013. 12. 30.>]
+제20조(운영세칙)
+이 영에서 규정한 사항 외에 위원회의 운영에 필요한 사항은 법무부장관이 정한다.
+[본조신설 2009. 7. 30.]
+[제13조에서 이동 <2013. 12. 30.>]
+제21조(주택임대차분쟁조정위원회의 설치)
+법 제14조제1항에 따른 주택임대차분쟁조정위원회(이하 “조정위원회”라 한다)를 두는 「법률구조법」 제8조에 따른 대한법률구조공단(이하 “공단”이라 한다), 공사 및 「한국부동산원법」에 따른 한국부동산원(이하 “부동산원”이라 한다)의 지부, 지사 또는 사무소와 그 관할구역은 별표 1과 같다.
+<개정 2020. 12. 8.>
+[전문개정 2020. 9. 29.]
+제22조(조정위원회의 심의ㆍ조정 사항)
+법 제14조제2항제5호에서 “대통령령으로 정하는 주택임대차에 관한 분쟁”이란 다음 각 호의 분쟁을 말한다.
+<개정 2024. 12. 31.>
+1. 임대차계약의 이행 및 임대차계약 내용의 해석에 관한 분쟁
+2. 임대차계약 갱신 및 종료에 관한 분쟁
+3. 임대차계약의 불이행 등에 따른 손해배상청구에 관한 분쟁
+4. 공인중개사 보수 등 비용부담에 관한 분쟁
+5. 「공인중개사법」 제30조에 따른 공인중개사의 손해배상책임(중개의뢰인이 같은 법 시행령 제26조제1항에 따라 보증기관에 손해배상금으로 공제금의 지급을 청구하는 경우를 포함한다)에 관한 분쟁
+6. 주택임대차표준계약서 사용에 관한 분쟁
+7. 그 밖에 제1호부터 제6호까지의 규정에 준하는 분쟁으로서 조정위원회의 위원장(이하 “위원장”이라 한다)이 조정이 필요하다고 인정하는 분쟁
+[본조신설 2017. 5. 29.]
+제23조(공단의 지부 등에 두는 조정위원회 사무국)
+① 법 제14조제3항에 따라 공단, 공사 및 부동산원의 지부, 지사 또는 사무소에 두는 조정위원회 사무국(이하 “사무국”이라 한다)에는 사무국장 1명을 두며, 사무국장 밑에 심사관 및 조사관을 둔다.
+<개정 2020. 9. 29., 2020. 12. 8.>
+② 사무국장은 공단 이사장, 공사 사장 및 부동산원 원장이 각각 임명하며, 조정위원회의 위원(이하 “조정위원”이라 한다)을 겸직할 수 있다.
+<개정 2020. 9. 29., 2020. 12. 8.>
+③ 심사관 및 조사관은 공단 이사장, 공사 사장 및 부동산원 원장이 각각 임명한다.
+<개정 2020. 9. 29., 2020. 12. 8.>
+④ 사무국장은 사무국의 업무를 총괄하고, 소속 직원을 지휘ㆍ감독한다.
+⑤ 심사관은 다음 각 호의 업무를 담당한다.
+1. 분쟁조정신청 사건에 대한 쟁점정리 및 법률적 검토
+2. 조사관이 담당하는 업무에 대한 지휘ㆍ감독
+3. 그 밖에 위원장이 조정위원회의 사무 처리를 위하여 필요하다고 인정하는 업무
+⑥ 조사관은 다음 각 호의 업무를 담당한다.
+1. 조정신청의 접수
+2. 분쟁조정 신청에 관한 민원의 안내
+3. 조정당사자에 대한 송달 및 통지
+4. 분쟁의 조정에 필요한 사실조사
+5. 그 밖에 위원장이 조정위원회의 사무 처리를 위하여 필요하다고 인정하는 업무
+⑦ 사무국장 및 심사관은 변호사의 자격이 있는 사람으로 한다.
+[본조신설 2017. 5. 29.]
+[제목개정 2020. 9. 29.]
+제24조(시ㆍ도의 조정위원회 사무국)
+시ㆍ도가 법 제14조제1항 후단에 따라 조정위원회를 두는 경우 사무국의 조직 및 운영 등에 관한 사항은 그 지방자치단체의 실정을 고려하여 해당 시ㆍ도 조례로 정한다.
+<개정 2020. 9. 29.>
+[본조신설 2017. 5. 29.]
+제25조(조정위원회 구성)
+법 제16조제3항제6호에서 “대통령령으로 정하는 사람”이란 세무사ㆍ주택관리사ㆍ건축사로서 주택임대차 관계 업무에 6년 이상 종사한 사람을 말한다.
+[본조신설 2017. 5. 29.]
+제26조(조정위원회 운영)
+① 조정위원회는 효율적인 운영을 위하여 필요한 경우에는 분쟁조정사건을 분리하거나 병합하여 심의ㆍ조정할 수 있다. 이 경우 당사자에게 지체 없이 그 사실을 통보하여야 한다.
+② 조정위원회 회의는 공개하지 아니한다. 다만, 필요하다고 인정되는 경우에는 조정위원회의 의결로 당사자 또는 이해관계인에게 방청을 허가할 수 있다.
+③ 조정위원회에 간사를 두며, 사무국의 직원 중에서 위원장이 지명한다.
+④ 조정위원회는 회의록을 작성하고, 참여한 조정위원으로 하여금 서명 또는 기명날인하게 하여야 한다.
+[본조신설 2017. 5. 29.]
+제27조(조정위원에 대한 수당 등)
+조정위원회 또는 조정부에 출석한 조정위원에 대해서는 예산의 범위에서 수당, 여비 및 그 밖에 필요한 경비를 지급할 수 있다.
+[본조신설 2017. 5. 29.]
+제28조(조정부에서 심의ㆍ조정할 사항)
+법 제17조제3항제1호에서 “대통령령으로 정하는 금액 이하의 분쟁”이란 다음 각 호의 어느 하나에 해당하는 분쟁을 말한다.
+1. 임대차계약의 보증금이 다음 각 목에서 정하는 금액 이하의 분쟁
+가. 「수도권정비계획법」 제2조제1호에 따른 수도권 지역: 5억원
+나. 가목에 따른 지역 외의 지역: 3억원
+2. 조정으로 주장하는 이익의 값(이하 “조정목적의 값”이라 한다)이 2억원 이하인 분쟁. 이 경우 조정목적의 값 산정은 「민사소송 등 인지법」에 따른 소송목적의 값에 관한 산정 방식을 준용한다.
+[본조신설 2017. 5. 29.]
+제29조(조정부의 구성 및 운영)
+① 조정부의 위원은 조정위원 중에서 위원장이 지명한다.
+② 둘 이상의 조정부를 두는 경우에는 위원장이 분쟁조정 신청사건을 담당할 조정부를 지정할 수 있다.
+③ 조정부의 운영에 관하여는 제26조를 준용한다. 이 경우 “조정위원회”는 “조정부”로, “위원장”은 “조정부의 장”으로 본다.
+[본조신설 2017. 5. 29.]
+제30조(조정의 신청)
+① 조정의 신청은 서면(「전자문서 및 전자거래 기본법」 제2조제1호에 따른 전자문서를 포함한다. 이하 같다) 또는 구두로 할 수 있다.
+② 구두로 조정을 신청하는 경우 조정신청인은 심사관 또는 조사관에게 진술하여야 한다. 이 경우 조정신청을 받은 심사관 또는 조사관은 조정신청조서를 작성하고 신청인으로 하여금 서명 또는 기명날인하도록 하여야 한다.
+③ 조정신청서 또는 조정신청조서에는 당사자, 대리인, 신청의 취지와 분쟁의 내용 등을 기재하여야 한다. 이 경우 증거서류 또는 증거물이 있는 경우에는 이를 첨부하거나 제출하여야 한다.
+[본조신설 2017. 5. 29.]
+제31조(조정신청인에게 안내하여야 할 사항)
+① 법 제21조제2항에서 “대통령령으로 정하는 사항”이란 다음 각 호의 사항을 말한다.
+1. 법 제21조제3항 각 호에 따른 조정 신청의 각하 사유
+2. 법 제22조제2항에 따른 조정절차의 개시 요건
+3. 법 제23조의 처리기간
+4. 법 제24조에 따라 필요한 경우 신청인, 피신청인, 분쟁 관련 이해관계인 또는 참고인에게 출석하여 진술하게 하거나 필요한 자료나 물건 등의 제출을 요구할 수 있다는 사실
+5. 조정성립의 요건 및 효력
+6. 당사자가 부담하는 비용
+② 제1항에 따른 안내는 안내할 사항이 기재된 서면을 교부 또는 송달하는 방법으로 할 수 있다.
+[본조신설 2017. 5. 29.]
+제32조(조정서류의 송달 등)
+① 위원장은 조정신청을 접수하면 지체 없이 조정신청서 또는 조정신청조서 부본(이하 이 조에서 “조정신청서등”이라 한다)을 피신청인에게 송달하여야 한다.
+② 피신청인은 조정에 응할 의사가 있는 경우에는 조정신청서등을 송달받은 날부터 7일 이내에 그 의사를 조정위원회에 통지하여야 한다.
+③ 위원장은 제2항에 따른 통지를 받은 경우 피신청인에게 기간을 정하여 신청내용에 대한 답변서를 제출할 것을 요구할 수 있다.
+[본조신설 2017. 5. 29.]
+제33조(수수료)
+① 법 제21조제1항에 따라 조정을 신청하는 자는 별표 2에서 정하는 수수료를 내야 한다.
+② 신청인이 다음 각 호의 어느 하나에 해당하는 경우에는 제1항에 따른 수수료를 면제할 수 있다.
+<개정 2020. 9. 29., 2021. 4. 6., 2023. 9. 26.>
+1. 법 제8조에 따라 우선변제를 받을 수 있는 임차인
+2. 「국민기초생활 보장법」 제2조제2호에 따른 수급자
+3. 「독립유공자예우에 관한 법률」 제6조에 따라 등록된 독립유공자 또는 그 유족(선순위자 1명만 해당된다. 이하 이 조에서 같다)
+4. 「국가유공자 등 예우 및 지원에 관한 법률」 제6조에 따라 등록된 국가유공자 또는 그 유족
+5. 「고엽제후유의증 등 환자지원 및 단체설립에 관한 법률」 제4조에 따라 등록된 고엽제후유증환자, 고엽제후유의증환자 또는 고엽제후유증 2세환자
+6. 「참전유공자 예우 및 단체설립에 관한 법률」 제5조에 따라 등록된 참전유공자
+7. 「5ㆍ18민주유공자예우 및 단체설립에 관한 법률」 제7조에 따라 등록 결정된 5ㆍ18민주유공자 또는 그 유족
+8. 「특수임무유공자 예우 및 단체설립에 관한 법률」 제6조에 따라 등록된 특수임무유공자 또는 그 유족
+9. 「의사상자 등 예우 및 지원에 관한 법률」 제5조에 따라 인정된 의상자 또는 의사자유족
+10. 「한부모가족지원법」 제5조 및 제5조의2에 따른 지원대상자
+11. 그 밖에 제1호부터 제10호까지의 규정에 준하는 사람으로서 법무부장관과 국토교통부장관이 공동으로 정하여 고시하는 사람 또는 시ㆍ도 조례로 정하는 사람
+③ 신청인은 다음 각 호의 어느 하나에 해당하는 경우에는 수수료의 환급을 청구할 수 있다.
+1. 법 제21조제3항제1호 및 제2호에 따라 조정신청이 각하된 경우. 다만, 조정신청 있은 후 신청인이 법원에 소를 제기하거나 「민사조정법」에 따른 조정을 신청한 경우는 제외한다.
+2. 법 제21조제3항제3호 및 제5호에 따라 조정신청이 각하된 경우
+3. 신청인이 조정위원회 또는 조정부의 회의가 소집되기 전에 조정신청을 취하한 경우. 이 경우 환급 금액은 납부한 수수료의 2분의 1에 해당하는 금액으로 한다.
+④ 제1항에 따른 수수료의 납부방법 및 제3항에 따른 수수료의 환급절차 등에 관하여 필요한 사항은 법무부장관과 국토교통부장관이 공동으로 정하여 고시하거나 시ㆍ도의 조례로 정한다.
+<개정 2020. 9. 29.>
+[본조신설 2017. 5. 29.]
+제34조(조정서의 작성)
+법 제26조제4항에 따른 조정서에는 다음 각 호의 사항을 기재하고, 위원장 및 조정에 참여한 조정위원이 서명 또는 기명날인하여야 한다.
+1. 사건번호 및 사건명
+2. 당사자의 성명, 생년월일 및 주소(법인의 경우 명칭, 법인등록번호 및 본점의 소재지를 말한다)
+3. 임차주택 소재지
+4. 신청의 취지 및 이유
+5. 조정내용(법 제26조제4항에 따라 강제집행을 승낙하는 취지의 합의를 포함한다)
+6. 작성일
+[본조신설 2017. 5. 29.]
+제35조(조정결과의 통지)
+① 조정위원회는 조정절차가 종료되면 그 결과를 당사자에게 통지하여야 한다.
+② 조정위원회는 법 제26조제4항에 따른 조정서가 작성된 경우 조정서 정본을 지체 없이 당사자에게 교부 또는 송달하여야 한다.
+[본조신설 2017. 5. 29.]
+부칙
+<제35947호, 2025. 12. 30.>
+(재정경제부 직제)
+제1조
+(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.
+제2조
+부터 제5조까지 생략
+제6조
+(다른 법령의 개정) ①부터 <108>까지 생략
+<109> 주택임대차보호법 시행령 일부를 다음과 같이 개정한다.
+제17조제3항제1호 중 “기획재정부”를 “재정경제부”로 한다.
+
+<110>부터 <313>까지 생략
+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jdG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAA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6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=
+Qk2iBwAAAAAAADYAAAAoAAAAGQAAABkAAAABABgAAAAAAGwHAAASFwAAEhcAAAAAAAAAAAAA/////////////////v7+/v7+/v7+/f7+/f7+/P39u9fMiYJOh1sLilgGmmwquJZr4NHB/f38/f7+//7+////////////////////AP////////7+/v7+/v7+/vz6+sq2pdfGvP7+/pjCsnlnH4dVAIhVAIhVAIdVAIhVAIhWAZxxL9G+o/z6+f7+//7+/v7+/v///////wD////////+/v7+/v7n3diMYTirim39/f3J4txpcjmHVQCJVgCJVgCJVgCJVgCJVgCJVgCHVQCHVQCfdjfq4NX9/v79/v7+/v7///8A/v7+/v7+/f7+2cq/dkQQcj0I6uLd/f7+gburhFwOiFUAiVYAiFYAiFYAiFYAiVYAiFYAh1UAiFUAh1UAjl4P28u3/f7+/v7+////AP3+/v7+/ung3HZEEW85AIJRHfr4+P7+/nG4pI9fBZBcAI1aAIlXAIhWAIhWAIdWAIdWAIhWAIlWAIlWAIlWAI5dD+vh1/7+/v///wD+/v759vWSZz53PgB8QgCLVBj49fP+/v6Ey7mbcBOgZgCeZQCZYgCTXgCMWQCJVgCIVgCJVgCJVgCJVgCJVgCIVgCheTz59/T///8A/v7+5tvTgEYEhEgAiEoAjE0B3su7/v7+tuXafZhVq24Aqm0Ap2wAo2kAnWQAlV8Ai1kAiFUAh1YAiVYAiVYAh1UAh1UAw6mE/f7+APz7+v38/LqUb45OAJFPAJJQAKhyN/n29Pj8+23OtZKSQbFxALBwAK1vAKltAKNpAJxjAJFbAIhWAIlWAIlWAIdVAIdVAI9fEvPt6ADfza3p3MT8+/vAmXaUUgCWUwCXUwDEnHf+/v7h9fBUzbF0rneqgR2ycgCvcACsbgClagCdZACQXACHVgCIVgCIVQCJVgCIVgDPup4AyqliuIkY5dKw/fz74My9toRQoF8aomIjzquP/Pv65/fzjd7LUMqtcK92o4QksHEArG8ApmsAnGQAjloAh1YAiFYAiVYAh1UAsIxXALyPKbWBALmEAsmhTufVtfr49vTs6Ni8qb+Tcr2NbObVyP79/dz173XXwVDLroGiXrFzBKxuAKVqAJpiAItYAIhWAIlWAIdVAJZnIAC3hAe4hAG/jCDElD3Imk7LoFzau43o1Lnz6N359/Ts4Njq3NX8+vn0+/mC28dWzrR4q3GxcgGrbgCiaACUXwCIVgCJVgCIVQCJVwIAt4MAvIkRw5M6yJpOy6BdzqVp0Klx0qx30q15061627yU7N3M/Pv6/v/+2/TvaNO8V861lpA9r3AAqGwAnWQAjFkAh1YAh1YAiFYAALmGA8COJ8aYR8ufWs+ladKqddu8k+XQte7h0fbw6Pz8+/r48/z6+P7+/vf8+37axmbSu22/lrBzBKxuAKFoAJJdAIdWAIhVAIhWAADCkSfDkjbIm1HZuYrs3Mb59vL9/f369u7y69ns4cbs3sD28OP+/v79/v79/v6Q389y1sFh0bmjjTmucACmawCYYQCJVwCHVQCQYBUA0Kpb069t9Ozg/v7++PXs7+PI6Niz59iz6ty89O7g/f38/v7+/v/+/v7+9vz7j9/Oe9nFa9S9i6tzsHEAqWwAnWQAi1gAh1UAp4FGAOnYu/z7+fv69+nasuLKkuTRo+bWr+zewPr59f7+/v7+/v7+/v7+/v7//9n07o7fzoDbyHLWwH+5kLJzBatuAJ9mAI1aAIdWAMSqhgD9/v749Ongx4HexIDhy5Hk0KHs4MP8+/j+/v7////+///+///+/v7v+ven5dmR4NCD28lz1sGCvpi0dg2rbgCgZgCPWwCKWQfp39QA/f7+7+PA2rtj3cJ44ciL5dKj/Pv5/v7+/v7+/v///v7+8/v51/LtrubbnuLVkeDQhNzJdNfBhbmQtHYNq24AoGcAj1sAsY9d/f7+AP7+/vv69t3Cb9u+bN7Ef+bTpP7+/v3+/uL18svv573r4bTo3q7m26Xk2Jrh1I7fz4Dbx3HWwZeqdbN1DKtuAKBmAJlpGfDp4/7+/gD9/v79/v3z6tDZul3cwHLgyIn7+vb8/f2r5tqp5dqq5tqp5dmk5Nic4tWS39GH3ct72cZr1L6vkEaycwOqbQCeZQLXxKr+/v7+/v4A/////////f7969yu2bpf3L9w7eC8/f7+vuvjmOHTm+LUmuHUluHSkN/Qid3MftvIctfCgMCbt3sZsHAAqGwBza+D/fz8/v7+////AP////////3+/v3+/vDlxNq9YNu+avTt2fr9/Kzn24fey4nezIbdyoHcyXnaxnHXwW7NsbGIMrJzAbF2D9zDov7+/f7+/v7+/v///wD////////////////+/v759u7m05nbv2j28eD9/v3R8uuY49Ny2cNu18Fn1b5yx6OtiSu1dgjMomHz6uD+/v7+/v7///////////8A/////////////////v7+/v7+/f7++fbt7+K//Pr2/f7+/f7+9vv6z+PWrrOHyZ1V3L2P9Ovj/v7+/v7+/v7+/v7+////////////AA==
+/9j/4QR6RXhpZgAATU0AKgAAAAgADAEAAAMAAAABABgAAAEBAAMAAAABABEAAAECAAMAAAADAAAAngEGAAMAAAABAAIAAAESAAMAAAABAAEAAAEVAAMAAAABAAMAAAEaAAUAAAABAAAApAEbAAUAAAABAAAArAEoAAMAAAABAAIAAAExAAIAAAAeAAAAtAEyAAIAAAAUAAAA0odpAAQAAAABAAAA6AAAASAACAAIAAgADqYAAAAnEAAOpgAAACcQQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykAMjAxNjowNDowMSAxNDowMjo0MQAAAAAEkAAABwAAAAQwMjIxoAEAAwAAAAH//wAAoAIABAAAAAEAAAAYoAMABAAAAAEAAAARAAAAAAAAAAYBAwADAAAAAQAGAAABGgAFAAAAAQAAAW4BGwAFAAAAAQAAAXYBKAADAAAAAQACAAACAQAEAAAAAQAAAX4CAgAEAAAAAQAAAvQAAAAAAAAASAAAAAEAAABIAAAAAf/Y/+0ADEFkb2JlX0NNAAL/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEVDwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAODhAUDg4OFBQODg4OFBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAARABgDASIAAhEBAxEB/90ABAAC/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGxQiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgU1AQACEQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH/9oADAMBAAIRAxEAPwD0P6w9ar6L0x+a5nq2Fza6KQY32vMVsn/pOWZXh/Xksblv6hji0+44HpN9Lx9L19rrm/u/zn/XFP699HzOrdBNeCC7JxbW5NTG8uLA9jms/l7LNzF5zldU+uX1hyqMO03etQYDWNNIa7vfftDNjm/6R/8ANqWGPijoQN+K/wAFvv8Aty+QTuuEEcQ/rPrXR+pHqOH6z6zTfW51WRSeWWsMWMSUei4l2PRa+8k25NvquJEEwyrH3ub+a630PW2/8IkodabNYvf2/V3fBf8A41x/3/1fG//Q9VSXyqkkp+qkl8qpJKf/2f/tDEBQaG90b3Nob3AgMy4wADhCSU0EBAAAAAAADxwBWgADGyVHHAIAAAKoAAA4QklNBCUAAAAAABAyxLCF4Ryh+iFUEgMgwUCtOEJJTQQ6AAAAAADlAAAAEAAAAAEAAAAAAAtwcmludE91dHB1dAAAAAUAAAAAUHN0U2Jvb2wBAAAAAEludGVlbnVtAAAAAEludGUAAAAAQ2xybQAAAA9wcmludFNpeHRlZW5CaXRib29sAAAAAAtwcmludGVyTmFtZVRFWFQAAAABAAAAAAAPcHJpbnRQcm9vZlNldHVwT2JqYwAAAAwAUAByAG8AbwBmACAAUwBlAHQAdQBwAAAAAAAKcHJvb2ZTZXR1cAAAAAEAAAAAQmx0bmVudW0AAAAMYnVpbHRpblByb29mAAAACXByb29mQ01ZSwA4QklNBDsAAAAAAi0AAAAQAAAAAQAAAAAAEnByaW50T3V0cHV0T3B0aW9ucwAAABcAAAAAQ3B0bmJvb2wAAAAAAENsYnJib29sAAAAAABSZ3NNYm9vbAAAAAAAQ3JuQ2Jvb2wAAAAAAENudENib29sAAAAAABMYmxzYm9vbAAAAAAATmd0dmJvb2wAAAAAAEVtbERib29sAAAAAABJbnRyYm9vbAAAAAAAQmNrZ09iamMAAAABAAAAAAAAUkdCQwAAAAMAAAAAUmQgIGRvdWJAb+AAAAAAAAAAAABHcm4gZG91YkBv4AAAAAAAAAAAAEJsICBkb3ViQG/gAAAAAAAAAAAAQnJkVFVudEYjUmx0AAAAAAAAAAAAAAAAQmxkIFVudEYjUmx0AAAAAAAAAAAAAAAAUnNsdFVudEYjUHhsQFgAAAAAAAAAAAAKdmVjdG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAA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6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=
+
+iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABc0lEQVR42u2XXYrEQAiEG7yW4NUFryX0VpksJDPsm+5ThzCZzjdgt5Y/s/Zf1zrkkEOmiK8laYGHLuFiiARvX4anSy2GCNZO0+YWUXCM5LL6Ok12pFrCm5MEdxpit1P2l6/7CEURv9eXdvpIUUQOgUv7yoU+wrfiho8Ul+ugE4T+3LCuyK8EjSGSuqB2AuSwPCPXS3wpjWMjVKSrTREryV87ee+gmxhSGJYpRBSLIYLkhQqhEYRNcckQYe7eaoRP8+HRXsJwSbnVS5EyRLBGSrGIU4775etOkhUsvHRoXtfbo42Ekr/iVp0jbYiUYYYMhZYikSFyFws1JG++MquXVHngWR3K364yRFjz2GGvH8XDo70kKrGs4sdau4fI3TQgfG4jUoYImzhUohwkcWKdIhxKUFnZZiPuRjtCaoJEUomzZzwrXztJzqmruuCOQQI/wjw7Rk3gM+QS46I6WPlsiNQE6WxPxrz6UGIfOf81Dznk38gPYbdaLov2miIAAAAASUVORK5CYII=

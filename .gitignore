@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# test files
+test-*.js
+
+# old streamlit version
+app_streamlit.py
+
+# python
+__pycache__/
+*.pyc
+.venv/

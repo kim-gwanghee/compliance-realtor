@@ -1,0 +1,294 @@
+부동산 거래신고 등에 관한 법률
+
+법제처 국가법령정보센터
+법제처 국가법령정보센터
+
+부동산 거래신고 등에 관한 법률
+( 약칭: 부동산거래신고법 )
+부동산 거래신고 등에 관한 법률
+
+[시행 2024. 5. 17.] [법률 제20194호, 2024. 2. 6., 타법개정]
+국토교통부(토지정책과-부동산거래신고, 토지거래허가) 044-201-3402, 3407
+국토교통부(주택임대차기획팀-주택임대차신고) 044-201-4177, 4179
+제1장 총칙
+제1조(목적)
+이 법은 부동산 거래 등의 신고 및 허가에 관한 사항을 정하여 건전하고 투명한 부동산 거래질서를 확립하고 국민경제에 이바지함을 목적으로 한다.
+제2조(정의)
+이 법에서 사용하는 용어의 뜻은 다음과 같다.
+<개정 2020. 8. 18.>
+1. “부동산”이란 토지 또는 건축물을 말한다.
+2. “부동산등”이란 부동산 또는 부동산을 취득할 수 있는 권리를 말한다.
+3. “거래당사자”란 부동산등의 매수인과 매도인을 말하며, 제4호에 따른 외국인등을 포함한다.
+3의2. “임대차계약당사자”란 부동산등의 임대인과 임차인을 말하며, 제4호에 따른 외국인등을 포함한다.
+4. “외국인등”이란 다음 각 목의 어느 하나에 해당하는 개인ㆍ법인 또는 단체를 말한다.
+가. 대한민국의 국적을 보유하고 있지 아니한 개인
+나. 외국의 법령에 따라 설립된 법인 또는 단체
+다. 사원 또는 구성원의 2분의 1 이상이 가목에 해당하는 자인 법인 또는 단체
+라. 업무를 집행하는 사원이나 이사 등 임원의 2분의 1 이상이 가목에 해당하는 자인 법인 또는 단체
+마. 가목에 해당하는 사람이나 나목에 해당하는 법인 또는 단체가 자본금의 2분의 1 이상이나 의결권의 2분의 1 이상을 가지고 있는 법인 또는 단체
+바. 외국 정부
+사. 대통령령으로 정하는 국제기구
+제2장 부동산 거래의 신고
+제3조(부동산 거래의 신고)
+① 거래당사자는 다음 각 호의 어느 하나에 해당하는 계약을 체결한 경우 그 실제 거래가격 등 대통령령으로 정하는 사항을 거래계약의 체결일부터 30일 이내에 그 권리의 대상인 부동산등(권리에 관한 계약의 경우에는 그 권리의 대상인 부동산을 말한다)의 소재지를 관할하는 시장(구가 설치되지 아니한 시의 시장 및 특별자치시장과 특별자치도 행정시의 시장을 말한다)ㆍ군수 또는 구청장(이하 “신고관청”이라 한다)에게 공동으로 신고하여야 한다. 다만, 거래당사자 중 일방이 국가, 지방자치단체, 대통령령으로 정하는 자의 경우(이하 “국가등”이라 한다)에는 국가등이 신고를 하여야 한다.
+<개정 2017. 2. 8., 2019. 8. 20.>
+1. 부동산의 매매계약
+2. 「택지개발촉진법」, 「주택법」 등 대통령령으로 정하는 법률에 따른 부동산에 대한 공급계약
+3. 다음 각 목의 어느 하나에 해당하는 지위의 매매계약
+가. 제2호에 따른 계약을 통하여 부동산을 공급받는 자로 선정된 지위
+나. 「도시 및 주거환경정비법」 제74조에 따른 관리처분계획의 인가 및 「빈집 및 소규모주택 정비에 관한 특례법」 제29조에 따른 사업시행계획인가로 취득한 입주자로 선정된 지위
+② 제1항에도 불구하고 거래당사자 중 일방이 신고를 거부하는 경우에는 국토교통부령으로 정하는 바에 따라 단독으로 신고할 수 있다.
+③ 「공인중개사법」 제2조제4호에 따른 개업공인중개사(이하 “개업공인중개사”라 한다)가 같은 법 제26조제1항에 따라 거래계약서를 작성ㆍ교부한 경우에는 제1항에도 불구하고 해당 개업공인중개사가 같은 항에 따른 신고를 하여야 한다. 이 경우 공동으로 중개를 한 경우에는 해당 개업공인중개사가 공동으로 신고하여야 한다.
+④ 제3항에도 불구하고 개업공인중개사 중 일방이 신고를 거부한 경우에는 제2항을 준용한다.
+<신설 2019. 8. 20.>
+⑤ 제1항부터 제4항까지에 따라 신고를 받은 신고관청은 그 신고 내용을 확인한 후 신고인에게 신고필증을 지체 없이 발급하여야 한다.
+<개정 2019. 8. 20.>
+⑥ 부동산등의 매수인은 신고인이 제5항에 따른 신고필증을 발급받은 때에 「부동산등기 특별조치법」 제3조제1항에 따른 검인을 받은 것으로 본다.
+<개정 2019. 8. 20.>
+⑦ 제1항부터 제6항까지에 따른 신고의 절차와 그 밖에 필요한 사항은 국토교통부령으로 정한다.
+<개정 2019. 8. 20.>
+제3조의2(부동산 거래의 해제등 신고)
+① 거래당사자는 제3조에 따라 신고한 후 해당 거래계약이 해제, 무효 또는 취소(이하 “해제등”이라 한다)된 경우 해제등이 확정된 날부터 30일 이내에 해당 신고관청에 공동으로 신고하여야 한다. 다만, 거래당사자 중 일방이 신고를 거부하는 경우에는 국토교통부령으로 정하는 바에 따라 단독으로 신고할 수 있다.
+② 개업공인중개사가 제3조제3항에 따라 신고를 한 경우에는 제1항에도 불구하고 개업공인중개사가 같은 항에 따른 신고(공동으로 중개를 한 경우에는 해당 개업공인중개사가 공동으로 신고하는 것을 말한다)를 할 수 있다. 다만, 개업공인중개사 중 일방이 신고를 거부한 경우에는 제1항 단서를 준용한다.
+③ 제1항 및 제2항에 따른 신고의 절차와 그 밖에 필요한 사항은 국토교통부령으로 정한다.
+[본조신설 2019. 8. 20.]
+제4조(금지행위)
+누구든지 제3조 또는 제3조의2에 따른 신고에 관하여 다음 각 호의 어느 하나에 해당하는 행위를 하여서는 아니 된다.
+<개정 2019. 8. 20.>
+1. 개업공인중개사에게 제3조에 따른 신고를 하지 아니하게 하거나 거짓으로 신고하도록 요구하는 행위
+2. 제3조제1항 각 호의 어느 하나에 해당하는 계약을 체결한 후 같은 조에 따른 신고 의무자가 아닌 자가 거짓으로 같은 조에 따른 신고를 하는 행위
+3. 거짓으로 제3조 또는 제3조의2에 따른 신고를 하는 행위를 조장하거나 방조하는 행위
+4. 제3조제1항 각 호의 어느 하나에 해당하는 계약을 체결하지 아니하였음에도 불구하고 거짓으로 같은 조에 따른 신고를 하는 행위
+5. 제3조에 따른 신고 후 해당 계약이 해제등이 되지 아니하였음에도 불구하고 거짓으로 제3조의2에 따른 신고를 하는 행위
+제5조(신고 내용의 검증)
+① 국토교통부장관은 제3조에 따라 신고받은 내용, 「부동산 가격공시에 관한 법률」에 따라 공시된 토지 및 주택의 가액, 그 밖의 부동산 가격정보를 활용하여 부동산거래가격 검증체계를 구축ㆍ운영하여야 한다.
+<개정 2019. 8. 20.>
+② 신고관청은 제3조에 따른 신고를 받은 경우 제1항에 따른 부동산거래가격 검증체계를 활용하여 그 적정성을 검증하여야 한다.
+③ 신고관청은 제2항에 따른 검증 결과를 해당 부동산의 소재지를 관할하는 세무관서의 장에게 통보하여야 하며, 통보받은 세무관서의 장은 해당 신고 내용을 국세 또는 지방세 부과를 위한 과세자료로 활용할 수 있다.
+④ 제1항부터 제3항까지에 따른 검증의 절차, 검증체계의 구축ㆍ운영, 그 밖에 필요한 세부 사항은 국토교통부장관이 정한다.
+제6조(신고 내용의 조사 등)
+① 신고관청은 제3조, 제3조의2 또는 제8조에 따라 신고 받은 내용이 누락되어 있거나 정확하지 아니하다고 판단하는 경우에는 국토교통부령으로 정하는 바에 따라 신고인에게 신고 내용을 보완하게 하거나 신고한 내용의 사실 여부를 확인하기 위하여 소속 공무원으로 하여금 거래당사자 또는 개업공인중개사에게 거래계약서, 거래대금 지급을 증명할 수 있는 자료 등 관련 자료의 제출을 요구하는 등 필요한 조치를 취할 수 있다.
+<개정 2019. 8. 20.>
+② 제1항에 따라 신고 내용을 조사(이하 이 조에서 “신고내용조사”라 한다)한 경우 신고관청은 조사 결과를 특별시장, 광역시장, 특별자치시장, 도지사, 특별자치도지사(이하 “시ㆍ도지사”라 한다)에게 보고하여야 하며, 시ㆍ도지사는 이를 국토교통부령으로 정하는 바에 따라 국토교통부장관에게 보고하여야 한다.
+<개정 2019. 8. 20.>
+③ 제1항에도 불구하고 국토교통부장관은 제3조, 제3조의2 또는 제8조에 따라 신고 받은 내용의 확인을 위하여 필요한 때에는 신고내용조사를 직접 또는 신고관청과 공동으로 실시할 수 있다.
+<신설 2019. 8. 20.>
+④ 국토교통부장관 및 신고관청은 제1항 및 제3항에 따른 신고내용조사를 위하여 국세ㆍ지방세에 관한 자료, 소득ㆍ재산에 관한 자료 등 대통령령으로 정하는 자료를 관계 행정기관의 장에게 요청할 수 있다. 이 경우 요청을 받은 관계 행정기관의 장은 정당한 사유가 없으면 그 요청에 따라야 한다.
+<신설 2019. 8. 20.>
+⑤ 국토교통부장관 및 신고관청은 신고내용조사 결과 그 내용이 이 법 또는 「주택법」, 「공인중개사법」, 「상속세 및 증여세법」 등 다른 법률을 위반하였다고 판단되는 때에는 이를 수사기관에 고발하거나 관계 행정기관에 통보하는 등 필요한 조치를 할 수 있다.
+<신설 2019. 8. 20.>
+제2장의2 주택 임대차 계약의 신고
+<신설 2020. 8. 18.>
+제6조의2(주택 임대차 계약의 신고)
+① 임대차계약당사자는 주택(「주택임대차보호법」 제2조에 따른 주택을 말하며, 주택을 취득할 수 있는 권리를 포함한다. 이하 같다)에 대하여 대통령령으로 정하는 금액을 초과하는 임대차 계약을 체결한 경우 그 보증금 또는 차임 등 국토교통부령으로 정하는 사항을 임대차 계약의 체결일부터 30일 이내에 주택 소재지를 관할하는 신고관청에 공동으로 신고하여야 한다. 다만, 임대차계약당사자 중 일방이 국가등인 경우에는 국가등이 신고하여야 한다.
+② 제1항에 따른 주택 임대차 계약의 신고는 임차가구 현황 등을 고려하여 대통령령으로 정하는 지역에 적용한다.
+③ 제1항에도 불구하고 임대차계약당사자 중 일방이 신고를 거부하는 경우에는 국토교통부령으로 정하는 바에 따라 단독으로 신고할 수 있다.
+④ 제1항에 따라 신고를 받은 신고관청은 그 신고 내용을 확인한 후 신고인에게 신고필증을 지체 없이 발급하여야 한다.
+⑤ 신고관청은 제1항부터 제4항까지의 규정에 따른 사무에 대한 해당 권한의 일부를 그 지방자치단체의 조례로 정하는 바에 따라 읍ㆍ면ㆍ동장 또는 출장소장에게 위임할 수 있다.
+⑥ 제1항, 제3항 또는 제4항에 따른 신고 및 신고필증 발급의 절차와 그 밖에 필요한 사항은 국토교통부령으로 정한다.
+[본조신설 2020. 8. 18.]
+제6조의3(주택 임대차 계약의 변경 및 해제 신고)
+① 임대차계약당사자는 제6조의2에 따라 신고한 후 해당 주택 임대차 계약의 보증금, 차임 등 임대차 가격이 변경되거나 임대차 계약이 해제된 때에는 변경 또는 해제가 확정된 날부터 30일 이내에 해당 신고관청에 공동으로 신고하여야 한다. 다만, 임대차계약당사자 중 일방이 국가등인 경우에는 국가등이 신고하여야 한다.
+② 제1항에도 불구하고 임대차계약당사자 중 일방이 신고를 거부하는 경우에는 국토교통부령으로 정하는 바에 따라 단독으로 신고할 수 있다.
+③ 제1항에 따라 신고를 받은 신고관청은 그 신고 내용을 확인한 후 신고인에게 신고필증을 지체 없이 발급하여야 한다.
+④ 신고관청은 제1항부터 제3항까지의 규정에 따른 사무에 대한 해당 권한의 일부를 그 지방자치단체의 조례로 정하는 바에 따라 읍ㆍ면ㆍ동장 또는 출장소장에게 위임할 수 있다.
+⑤ 제1항부터 제3항까지의 규정에 따른 신고 및 신고필증 발급의 절차와 그 밖에 필요한 사항은 국토교통부령으로 정한다.
+[본조신설 2020. 8. 18.]
+제6조의4(주택 임대차 계약 신고에 대한 준용규정)
+① 주택 임대차 계약 신고의 금지행위에 관하여는 제4조를 준용한다.
+② 주택 임대차 계약 신고 내용의 검증에 관하여는 제5조를 준용한다.
+③ 주택 임대차 계약 신고 내용의 조사 등에 관하여는 제6조를 준용한다.
+[본조신설 2020. 8. 18.]
+제6조의5(다른 법률에 따른 신고 등의 의제)
+① 제6조의2에도 불구하고 임차인이 「주민등록법」에 따라 전입신고를 하는 경우 이 법에 따른 주택 임대차 계약의 신고를 한 것으로 본다.
+② 제6조의2 또는 제6조의3에도 불구하고 「공공주택 특별법」에 따른 공공주택사업자 및 「민간임대주택에 관한 특별법」에 따른 임대사업자는 관련 법령에 따른 주택 임대차 계약의 신고 또는 변경신고를 하는 경우 이 법에 따른 주택 임대차 계약의 신고 또는 변경신고를 한 것으로 본다.
+③ 제6조의2, 제6조의3에 따른 신고의 접수를 완료한 때에는 「주택임대차보호법」 제3조의6제1항에 따른 확정일자를 부여한 것으로 본다(임대차계약서가 제출된 경우로 한정한다). 이 경우 신고관청은 「주택임대차보호법」 제3조의6제2항에 따라 확정일자부를 작성하거나 「주택임대차보호법」 제3조의6의 확정일자부여기관에 신고 사실을 통보하여야 한다.
+[본조신설 2020. 8. 18.]
+제3장 외국인등의 부동산 취득 등에 관한 특례
+제7조(상호주의)
+국토교통부장관은 대한민국국민, 대한민국의 법령에 따라 설립된 법인 또는 단체나 대한민국정부에 대하여 자국(自國) 안의 토지의 취득 또는 양도를 금지하거나 제한하는 국가의 개인ㆍ법인ㆍ단체 또는 정부에 대하여 대통령령으로 정하는 바에 따라 대한민국 안의 토지의 취득 또는 양도를 금지하거나 제한할 수 있다. 다만, 헌법과 법률에 따라 체결된 조약의 이행에 필요한 경우에는 그러하지 아니하다.
+제8조(외국인등의 부동산 취득ㆍ보유 신고)
+① 외국인등이 대한민국 안의 부동산등을 취득하는 계약(제3조제1항 각 호에 따른 계약은 제외한다)을 체결하였을 때에는 계약체결일부터 60일 이내에 대통령령으로 정하는 바에 따라 신고관청에 신고하여야 한다.
+② 외국인등이 상속ㆍ경매, 그 밖에 대통령령으로 정하는 계약 외의 원인으로 대한민국 안의 부동산등을 취득한 때에는 부동산등을 취득한 날부터 6개월 이내에 대통령령으로 정하는 바에 따라 신고관청에 신고하여야 한다.
+③ 대한민국 안의 부동산등을 가지고 있는 대한민국국민이나 대한민국의 법령에 따라 설립된 법인 또는 단체가 외국인등으로 변경된 경우 그 외국인등이 해당 부동산등을 계속보유하려는 경우에는 외국인등으로 변경된 날부터 6개월 이내에 대통령령으로 정하는 바에 따라 신고관청에 신고하여야 한다.
+제9조(외국인등의 토지거래 허가)
+① 제3조 및 제8조에도 불구하고 외국인등이 취득하려는 토지가 다음 각 호의 어느 하나에 해당하는 구역ㆍ지역 등에 있으면 토지를 취득하는 계약(이하 “토지취득계약”이라 한다)을 체결하기 전에 대통령령으로 정하는 바에 따라 신고관청으로부터 토지취득의 허가를 받아야 한다. 다만, 제11조에 따라 토지거래계약에 관한 허가를 받은 경우에는 그러하지 아니하다.
+<개정 2019. 11. 26., 2023. 3. 21., 2023. 8. 8., 2024. 2. 6.>
+1. 「군사기지 및 군사시설 보호법」 제2조제6호에 따른 군사기지 및 군사시설 보호구역, 그 밖에 국방목적을 위하여 외국인등의 토지취득을 특별히 제한할 필요가 있는 지역으로서 대통령령으로 정하는 지역
+2. 「문화유산의 보존 및 활용에 관한 법률」 제2조제3항에 따른 지정문화유산과 이를 위한 보호물 또는 보호구역
+2의2. 「자연유산의 보존 및 활용에 관한 법률」에 따라 지정된 천연기념물등과 이를 위한 보호물 또는 보호구역
+3. 「자연환경보전법」 제2조제12호에 따른 생태ㆍ경관보전지역
+4. 「야생생물 보호 및 관리에 관한 법률」 제27조에 따른 야생생물 특별보호구역
+② 신고관청은 관계 행정기관의 장과 협의를 거쳐 외국인등이 제1항 각 호의 어느 하나에 해당하는 구역ㆍ지역 등의 토지를 취득하는 것이 해당 구역ㆍ지역 등의 지정목적 달성에 지장을 주지 아니한다고 인정하는 경우에는 제1항에 따른 허가를 하여야 한다.
+③ 제1항을 위반하여 체결한 토지취득계약은 그 효력이 발생하지 아니한다.
+제4장 토지거래허가구역 등
+제10조(토지거래허가구역의 지정)
+① 국토교통부장관 또는 시ㆍ도지사는 국토의 이용 및 관리에 관한 계획의 원활한 수립과 집행, 합리적인 토지 이용 등을 위하여 토지의 투기적인 거래가 성행하거나 지가(地價)가 급격히 상승하는 지역과 그러한 우려가 있는 지역으로서 대통령령으로 정하는 지역에 대해서는 다음 각 호의 구분에 따라 5년 이내의 기간을 정하여 제11조제1항에 따른 토지거래계약에 관한 허가구역(이하 “허가구역”이라 한다)으로 지정할 수 있다. 이 경우 국토교통부장관 또는 시ㆍ도지사는 대통령령으로 정하는 바에 따라 허가대상자(외국인등을 포함한다. 이하 이 조에서 같다), 허가대상 용도와 지목 등을 특정하여 허가구역을 지정할 수 있다.
+<개정 2023. 4. 18.>
+1. 허가구역이 둘 이상의 시ㆍ도의 관할 구역에 걸쳐 있는 경우: 국토교통부장관이 지정
+2. 허가구역이 동일한 시ㆍ도 안의 일부지역인 경우: 시ㆍ도지사가 지정. 다만, 국가가 시행하는 개발사업 등에 따라 투기적인 거래가 성행하거나 지가가 급격히 상승하는 지역과 그러한 우려가 있는 지역 등 대통령령으로 정하는 경우에는 국토교통부장관이 지정할 수 있다.
+② 국토교통부장관 또는 시ㆍ도지사는 제1항에 따라 허가구역을 지정하려면 「국토의 계획 및 이용에 관한 법률」 제106조에 따른 중앙도시계획위원회(이하 “중앙도시계획위원회”라 한다) 또는 같은 법 제113조제1항에 따른 시ㆍ도도시계획위원회(이하 “시ㆍ도도시계획위원회”라 한다)의 심의를 거쳐야 한다. 다만, 지정기간이 끝나는 허가구역을 계속하여 다시 허가구역으로 지정하려면 중앙도시계획위원회 또는 시ㆍ도도시계획위원회의 심의 전에 미리 시ㆍ도지사(국토교통부장관이 허가구역을 지정하는 경우만 해당한다) 및 시장ㆍ군수 또는 구청장의 의견을 들어야 한다.
+③ 국토교통부장관 또는 시ㆍ도지사는 제1항에 따라 허가구역으로 지정한 때에는 지체 없이 허가대상자, 허가대상 용도와 지목 등 대통령령으로 정하는 사항을 공고하고, 그 공고 내용을 국토교통부장관은 시ㆍ도지사를 거쳐 시장ㆍ군수 또는 구청장에게 통지하고, 시ㆍ도지사는 국토교통부장관, 시장ㆍ군수 또는 구청장에게 통지하여야 한다.
+<개정 2023. 4. 18.>
+④ 제3항에 따라 통지를 받은 시장ㆍ군수 또는 구청장은 지체 없이 그 공고 내용을 그 허가구역을 관할하는 등기소의 장에게 통지하여야 하며, 지체 없이 그 사실을 7일 이상 공고하고, 그 공고 내용을 15일간 일반이 열람할 수 있도록 하여야 한다.
+⑤ 허가구역의 지정은 제3항에 따라 허가구역의 지정을 공고한 날부터 5일 후에 그 효력이 발생한다.
+⑥ 국토교통부장관 또는 시ㆍ도지사는 허가구역의 지정 사유가 없어졌다고 인정되거나 관계 시ㆍ도지사, 시장ㆍ군수 또는 구청장으로부터 받은 허가구역의 지정 해제 또는 축소 요청이 이유 있다고 인정되면 지체 없이 허가구역의 지정을 해제하거나 지정된 허가구역의 일부를 축소하여야 한다.
+⑦ 제6항에 따른 해제 또는 축소의 경우에는 제2항 본문, 제3항 및 제4항을 준용한다.
+제11조(허가구역 내 토지거래에 대한 허가)
+① 허가구역에 있는 토지에 관한 소유권ㆍ지상권(소유권ㆍ지상권의 취득을 목적으로 하는 권리를 포함한다)을 이전하거나 설정(대가를 받고 이전하거나 설정하는 경우만 해당한다)하는 계약(예약을 포함한다. 이하 “토지거래계약”이라 한다)을 체결하려는 당사자는 공동으로 대통령령으로 정하는 바에 따라 시장ㆍ군수 또는 구청장의 허가를 받아야 한다. 허가받은 사항을 변경하려는 경우에도 또한 같다.
+② 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 제1항에 따른 허가가 필요하지 아니하다.
+<개정 2023. 4. 18.>
+1. 경제 및 지가의 동향과 거래단위면적 등을 종합적으로 고려하여 대통령령으로 정하는 용도별 면적 이하의 토지에 대한 토지거래계약을 체결하려는 경우
+2. 토지거래계약을 체결하려는 당사자 또는 그 계약의 대상이 되는 토지가 제10조제3항에 따라 공고된 사항에 해당하지 아니하는 경우
+③ 제1항에 따른 허가를 받으려는 자는 그 허가신청서에 계약내용과 그 토지의 이용계획, 취득자금 조달계획 등을 적어 시장ㆍ군수 또는 구청장에게 제출하여야 한다. 이 경우 토지이용계획, 취득자금 조달계획 등에 포함되어야 할 사항은 국토교통부령으로 정한다. 다만, 시장ㆍ군수 또는 구청장에게 제출한 취득자금 조달계획이 변경된 경우에는 취득토지에 대한 등기일까지 시장ㆍ군수 또는 구청장에게 그 변경 사항을 제출할 수 있다.
+④ 시장ㆍ군수 또는 구청장은 제3항에 따른 허가신청서를 받으면 「민원 처리에 관한 법률」에 따른 처리기간에 허가 또는 불허가의 처분을 하고, 그 신청인에게 허가증을 발급하거나 불허가처분 사유를 서면으로 알려야 한다. 다만, 제15조에 따라 선매협의(先買協議) 절차가 진행 중인 경우에는 위의 기간 내에 그 사실을 신청인에게 알려야 한다.
+⑤ 제4항에 따른 기간에 허가증의 발급 또는 불허가처분 사유의 통지가 없거나 선매협의 사실의 통지가 없는 경우에는 그 기간이 끝난 날의 다음날에 제1항에 따른 허가가 있는 것으로 본다. 이 경우 시장ㆍ군수 또는 구청장은 지체 없이 신청인에게 허가증을 발급하여야 한다.
+⑥ 제1항에 따른 허가를 받지 아니하고 체결한 토지거래계약은 그 효력이 발생하지 아니한다.
+⑦ 제2항제1호에 따른 토지의 면적 산정방법에 관하여 필요한 사항은 대통령령으로 정한다.
+<개정 2023. 4. 18.>
+제12조(허가기준)
+시장ㆍ군수 또는 구청장은 제11조에 따른 허가신청이 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 허가하여야 한다.
+1. 토지거래계약을 체결하려는 자의 토지이용목적이 다음 각 목의 어느 하나에 해당되지 아니하는 경우
+가. 자기의 거주용 주택용지로 이용하려는 경우
+나. 허가구역을 포함한 지역의 주민을 위한 복지시설 또는 편익시설로서 관할 시장ㆍ군수 또는 구청장이 확인한 시설의 설치에 이용하려는 경우
+다. 허가구역에 거주하는 농업인ㆍ임업인ㆍ어업인 또는 대통령령으로 정하는 자가 그 허가구역에서 농업ㆍ축산업ㆍ임업 또는 어업을 경영하기 위하여 필요한 경우
+라. 「공익사업을 위한 토지 등의 취득 및 보상에 관한 법률」이나 그 밖의 법률에 따라 토지를 수용하거나 사용할 수 있는 사업을 시행하는 자가 그 사업을 시행하기 위하여 필요한 경우
+마. 허가구역을 포함한 지역의 건전한 발전을 위하여 필요하고 관계 법률에 따라 지정된 지역ㆍ지구ㆍ구역 등의 지정목적에 적합하다고 인정되는 사업을 시행하는 자나 시행하려는 자가 그 사업에 이용하려는 경우
+바. 허가구역의 지정 당시 그 구역이 속한 특별시ㆍ광역시ㆍ특별자치시ㆍ시(「제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법」 제10조제2항에 따른 행정시를 포함한다. 이하 이 조에서 같다)ㆍ군 또는 인접한 특별시ㆍ광역시ㆍ특별자치시ㆍ시ㆍ군에서 사업을 시행하고 있는 자가 그 사업에 이용하려는 경우나 그 자의 사업과 밀접한 관련이 있는 사업을 하는 자가 그 사업에 이용하려는 경우
+사. 허가구역이 속한 특별시ㆍ광역시ㆍ특별자치시ㆍ시 또는 군에 거주하고 있는 자의 일상생활과 통상적인 경제활동에 필요한 것 등으로서 대통령령으로 정하는 용도에 이용하려는 경우
+2. 토지거래계약을 체결하려는 자의 토지이용목적이 다음 각 목의 어느 하나에 해당되는 경우
+가. 「국토의 계획 및 이용에 관한 법률」 제2조제2호에 따른 도시ㆍ군계획이나 그 밖에 토지의 이용 및 관리에 관한 계획에 맞지 아니한 경우
+나. 생태계의 보전과 주민의 건전한 생활환경 보호에 중대한 위해(危害)를 끼칠 우려가 있는 경우
+3. 그 면적이 그 토지의 이용목적에 적합하지 아니하다고 인정되는 경우
+제13조(이의신청)
+① 제11조에 따른 처분에 이의가 있는 자는 그 처분을 받은 날부터 1개월 이내에 시장ㆍ군수 또는 구청장에게 이의를 신청할 수 있다.
+② 제1항에 따른 이의신청을 받은 시장ㆍ군수 또는 구청장은 「국토의 계획 및 이용에 관한 법률」 제113조제2항에 따른 시ㆍ군ㆍ구도시계획위원회의 심의를 거쳐 그 결과를 이의신청인에게 알려야 한다.
+제14조(국가 등의 토지거래계약에 관한 특례 등)
+① 제11조제1항을 적용할 때에 그 당사자의 한쪽 또는 양쪽이 국가, 지방자치단체, 「한국토지주택공사법」에 따른 한국토지주택공사(이하 “한국토지주택공사”라 한다), 그 밖에 대통령령으로 정하는 공공기관 또는 공공단체인 경우에는 그 기관의 장이 시장ㆍ군수 또는 구청장과 협의할 수 있고, 그 협의가 성립된 때에는 그 토지거래계약에 관한 허가를 받은 것으로 본다.
+② 다음 각 호의 경우에는 제11조를 적용하지 아니한다.
+1. 「공익사업을 위한 토지 등의 취득 및 보상에 관한 법률」에 따른 토지의 수용
+2. 「민사집행법」에 따른 경매
+3. 그 밖에 대통령령으로 정하는 경우
+제15조(선매)
+① 시장ㆍ군수 또는 구청장은 제11조제1항에 따른 토지거래계약에 관한 허가신청이 있는 경우 다음 각 호의 어느 하나에 해당하는 토지에 대하여 국가, 지방자치단체, 한국토지주택공사, 그 밖에 대통령령으로 정하는 공공기관 또는 공공단체가 그 매수를 원하는 경우에는 이들 중에서 해당 토지를 매수할 자[이하 “선매자(先買者)”라 한다]를 지정하여 그 토지를 협의 매수하게 할 수 있다.
+1. 공익사업용 토지
+2. 제11조제1항에 따른 토지거래계약허가를 받아 취득한 토지를 그 이용목적대로 이용하고 있지 아니한 토지
+② 시장ㆍ군수 또는 구청장은 제1항 각 호의 어느 하나에 해당하는 토지에 대하여 토지거래계약 허가신청이 있는 경우에는 그 신청이 있는 날부터 1개월 이내에 선매자를 지정하여 토지 소유자에게 알려야 하며, 선매자는 지정 통지를 받은 날부터 1개월 이내에 그 토지 소유자와 대통령령으로 정하는 바에 따라 선매협의를 끝내야 한다.
+③ 선매자가 제1항과 제2항에 따라 토지를 매수할 때의 가격은 「감정평가 및 감정평가사에 관한 법률」에 따라 감정평가법인등이 감정평가한 감정가격을 기준으로 하되, 토지거래계약 허가신청서에 적힌 가격이 감정가격보다 낮은 경우에는 허가신청서에 적힌 가격으로 할 수 있다.
+<개정 2019. 8. 20., 2020. 4. 7.>
+④ 시장ㆍ군수 또는 구청장은 제2항에 따른 선매협의가 이루어지지 아니한 경우에는 지체 없이 허가 또는 불허가의 여부를 결정하여 통보하여야 한다.
+제16조(불허가처분 토지에 관한 매수 청구)
+① 제11조제1항에 따른 허가신청에 대하여 불허가처분을 받은 자는 그 통지를 받은 날부터 1개월 이내에 시장ㆍ군수 또는 구청장에게 해당 토지에 관한 권리의 매수를 청구할 수 있다.
+② 제1항에 따른 매수 청구를 받은 시장ㆍ군수 또는 구청장은 국가, 지방자치단체, 한국토지주택공사, 그 밖에 대통령령으로 정하는 공공기관 또는 공공단체 중에서 매수할 자를 지정하여, 매수할 자로 하여금 예산의 범위에서 공시지가를 기준으로 하여 해당 토지를 매수하게 하여야 한다. 다만, 토지거래계약 허가신청서에 적힌 가격이 공시지가보다 낮은 경우에는 허가신청서에 적힌 가격으로 매수할 수 있다.
+제17조(토지 이용에 관한 의무 등)
+① 제11조에 따라 토지거래계약을 허가받은 자는 대통령령으로 정하는 사유가 있는 경우 외에는 5년의 범위에서 대통령령으로 정하는 기간에 그 토지를 허가받은 목적대로 이용하여야 한다.
+② 시장ㆍ군수 또는 구청장은 토지거래계약을 허가받은 자가 허가받은 목적대로 이용하고 있는지를 국토교통부령으로 정하는 바에 따라 조사하여야 한다.
+③ 삭제
+<2016. 12. 2.>
+④ 삭제
+<2016. 12. 2.>
+제18조(이행강제금)
+① 시장ㆍ군수 또는 구청장은 제17조제1항에 따른 토지의 이용 의무를 이행하지 아니한 자에 대하여는 상당한 기간을 정하여 토지의 이용 의무를 이행하도록 명할 수 있다. 다만, 대통령령으로 정하는 사유가 있는 경우에는 이용 의무의 이행을 명하지 아니할 수 있다.
+② 시장ㆍ군수 또는 구청장은 제1항에 따른 이행명령이 정하여진 기간에 이행되지 아니한 경우에는 토지 취득가액의 100분의 10의 범위에서 대통령령으로 정하는 금액의 이행강제금을 부과한다.
+③ 시장ㆍ군수 또는 구청장은 최초의 이행명령이 있었던 날을 기준으로 1년에 한 번씩 그 이행명령이 이행될 때까지 반복하여 제2항에 따른 이행강제금을 부과ㆍ징수할 수 있다.
+④ 시장ㆍ군수 또는 구청장은 제17조제1항에 따른 이용 의무기간이 지난 후에는 이행강제금을 부과할 수 없다.
+⑤ 시장ㆍ군수 또는 구청장은 제1항에 따른 이행명령을 받은 자가 그 명령을 이행하는 경우에는 새로운 이행강제금의 부과를 즉시 중지하되, 명령을 이행하기 전에 이미 부과된 이행강제금은 징수하여야 한다.
+⑥ 제2항에 따른 이행강제금의 부과처분에 불복하는 자는 시장ㆍ군수 또는 구청장에게 이의를 제기할 수 있다.
+⑦ 제2항 및 제3항에 따라 이행강제금 부과처분을 받은 자가 이행강제금을 납부기한까지 납부하지 아니한 경우에는 국세 체납처분의 예 또는 「지방행정제재ㆍ부과금의 징수 등에 관한 법률」에 따라 징수한다.
+<개정 2020. 3. 24.>
+⑧ 이행강제금의 부과, 납부, 징수 및 이의제기 방법 등에 필요한 사항은 대통령령으로 정한다.
+제19조(지가 동향의 조사)
+국토교통부장관이나 시ㆍ도지사는 토지거래허가 제도를 실시하거나 그 밖에 토지정책을 수행하기 위한 자료를 수집하기 위하여 대통령령으로 정하는 바에 따라 지가의 동향과 토지거래의 상황을 조사하여야 하며, 관계 행정기관이나 그 밖의 필요한 기관에 이에 필요한 자료를 제출하도록 요청할 수 있다. 이 경우 자료 제출을 요청받은 기관은 특별한 사유가 없으면 요청에 따라야 한다.
+제20조(다른 법률에 따른 인가ㆍ허가 등의 의제)
+① 농지에 대하여 제11조에 따라 토지거래계약 허가를 받은 경우에는 「농지법」 제8조에 따른 농지취득자격증명을 받은 것으로 본다. 이 경우 시장ㆍ군수 또는 구청장은 「농업ㆍ농촌 및 식품산업 기본법」 제3조제5호에 따른 농촌(「국토의 계획 및 이용에 관한 법률」에 따른 도시지역의 경우에는 같은 법에 따른 녹지지역만 해당한다)의 농지에 대하여 토지거래계약을 허가하는 경우에는 농지취득자격증명의 발급 요건에 적합한지를 확인하여야 하며, 허가한 내용을 농림축산식품부장관에게 통보하여야 한다.
+② 제11조제4항 및 제5항에 따라 허가증을 발급받은 경우에는 「부동산등기 특별조치법」 제3조에 따른 검인을 받은 것으로 본다.
+제21조(제재처분 등)
+국토교통부장관, 시ㆍ도지사, 시장ㆍ군수 또는 구청장은 다음 각 호의 어느 하나에 해당하는 자에게 제11조에 따른 허가 취소 또는 그 밖에 필요한 처분을 하거나 조치를 명할 수 있다.
+1. 제11조에 따른 토지거래계약에 관한 허가 또는 변경허가를 받지 아니하고 토지거래계약 또는 그 변경계약을 체결한 자
+2. 제11조에 따른 토지거래계약에 관한 허가를 받은 자가 그 토지를 허가받은 목적대로 이용하지 아니한 자
+3. 부정한 방법으로 제11조에 따른 토지거래계약에 관한 허가를 받은 자
+제22조(권리ㆍ의무의 승계 등)
+① 제10조부터 제20조까지에 따라 토지의 소유권자, 지상권자 등에게 발생되거나 부과된 권리ㆍ의무는 그 토지 또는 건축물에 관한 소유권이나 그 밖의 권리의 변동과 동시에 그 승계인에게 이전한다.
+② 이 법 또는 이 법에 따른 명령에 의한 처분, 그 절차 및 그 밖의 행위는 그 행위와 관련된 토지 또는 건축물에 대하여 소유권이나 그 밖의 권리를 가진 자의 승계인에 대하여 효력을 가진다.
+제23조(청문)
+국토교통부장관, 시ㆍ도지사, 시장ㆍ군수 또는 구청장은 제21조에 따라 토지거래계약 허가의 취소 처분을 하려면 청문을 하여야 한다.
+제5장 부동산 정보 관리
+제24조(부동산정책 관련 자료 등 종합관리)
+① 국토교통부장관 또는 시장ㆍ군수ㆍ구청장은 적절한 부동산정책의 수립 및 시행을 위하여 부동산 거래상황, 주택 임대차 계약상황, 외국인 부동산 취득현황, 부동산 가격 동향 등 이 법에 규정된 사항에 관한 정보를 종합적으로 관리하고, 이를 관련 기관ㆍ단체 등에 제공할 수 있다.
+<개정 2020. 8. 18.>
+② 국토교통부장관 또는 시장ㆍ군수ㆍ구청장은 제1항에 따른 정보의 관리를 위하여 관계 행정기관이나 그 밖에 필요한 기관에 필요한 자료를 요청할 수 있다. 이 경우 관계 행정기관 등은 특별한 사유가 없으면 요청에 따라야 한다.
+③ 제1항 및 제2항에 따른 정보의 관리ㆍ제공 및 자료요청은 「개인정보 보호법」에 따라야 한다.
+제25조(부동산정보체계의 구축ㆍ운영)
+국토교통부장관은 효율적인 정보의 관리 및 국민편의 증진을 위하여 대통령령으로 정하는 바에 따라 부동산거래 및 주택 임대차의 계약ㆍ신고ㆍ허가ㆍ관리 등의 업무와 관련된 정보체계를 구축ㆍ운영할 수 있다.
+<개정 2020. 8. 18.>
+제5장의2 보칙
+<신설 2016. 12. 2.>
+제25조의2(신고포상금의 지급)
+① 시장ㆍ군수 또는 구청장은 다음 각 호의 어느 하나에 해당하는 자를 관계 행정기관이나 수사기관에 신고하거나 고발한 자에게 예산의 범위에서 포상금을 지급할 수 있다.
+<개정 2019. 8. 20., 2020. 8. 18.>
+1. 제3조제1항부터 제4항까지 또는 제4조제2호를 위반하여 부동산등의 실제 거래가격을 거짓으로 신고한 자
+1의2. 제4조제4호를 위반하여 거짓으로 제3조에 따른 신고를 한 자
+1의3. 제4조제5호를 위반하여 거짓으로 제3조의2에 따른 신고를 한 자
+1의4. 제6조의2 또는 제6조의3을 위반하여 주택 임대차 계약의 보증금ㆍ차임 등 계약금액을 거짓으로 신고한 자
+2. 제11조제1항에 따른 허가 또는 변경허가를 받지 아니하고 토지거래계약을 체결한 자 또는 거짓이나 그 밖의 부정한 방법으로 토지거래계약허가를 받은 자
+3. 토지거래계약허가를 받아 취득한 토지에 대하여 제17조제1항을 위반하여 허가받은 목적대로 이용하지 아니한 자
+② 제1항에 따른 포상금의 지급에 드는 비용은 시ㆍ군이나 구의 재원으로 충당한다.
+③ 제1항에 따른 포상금 지급의 대상ㆍ기준ㆍ방법 및 절차 등에 관한 구체적인 사항은 대통령령으로 정한다.
+[본조신설 2016. 12. 2.]
+제25조의3(권한 등의 위임 및 위탁)
+① 이 법에 따른 국토교통부장관의 권한은 그 일부를 대통령령으로 정하는 바에 따라 시ㆍ도지사, 시장ㆍ군수 또는 구청장에게 위임할 수 있다.
+② 국토교통부장관은 제5조의 부동산거래가격 검증체계 구축ㆍ운영, 제6조제3항에 따른 신고내용조사 및 제25조의 부동산정보체계의 구축ㆍ운영 업무를 대통령령으로 정하는 바에 따라 부동산시장 관련 전문성이 있는 공공기관에 위탁할 수 있다.
+<개정 2019. 8. 20.>
+[본조신설 2016. 12. 2.]
+제6장 벌칙
+제26조(벌칙)
+① 부당하게 재물이나 재산상 이득을 취득하거나 제3자로 하여금 이를 취득하게 할 목적으로 제4조제4호 또는 제5호를 위반하여 거짓으로 제3조 또는 제3조의2에 따라 신고한 자는 3년 이하의 징역 또는 3천만원 이하의 벌금에 처한다.
+<신설 2023. 4. 18.>
+② 제9조제1항에 따른 허가를 받지 아니하고 토지취득계약을 체결하거나 부정한 방법으로 허가를 받아 토지취득계약을 체결한 외국인등은 2년 이하의 징역 또는 2천만원 이하의 벌금에 처한다.
+<개정 2023. 4. 18.>
+③ 제11조제1항에 따른 허가 또는 변경허가를 받지 아니하고 토지거래계약을 체결하거나, 속임수나 그 밖의 부정한 방법으로 토지거래계약 허가를 받은 자는 2년 이하의 징역 또는 계약 체결 당시의 개별공시지가에 따른 해당 토지가격의 100분의 30에 해당하는 금액 이하의 벌금에 처한다.
+<개정 2023. 4. 18.>
+④ 제21조에 따른 허가 취소, 처분 또는 조치명령을 위반한 자는 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.
+<개정 2023. 4. 18.>
+제27조(양벌규정)
+법인의 대표자나 법인 또는 개인의 대리인, 사용인, 그 밖의 종업원이 그 법인 또는 개인의 업무에 관하여 제26조의 위반행위를 하면 그 행위자를 벌하는 외에 그 법인 또는 개인에게도 해당 조문의 벌금형을 과(科)한다. 다만, 법인 또는 개인이 그 위반행위를 방지하기 위하여 해당 업무에 관하여 상당한 주의와 감독을 게을리하지 아니한 경우에는 그러하지 아니하다.
+제28조(과태료)
+① 다음 각 호의 어느 하나에 해당하는 자에게는 3천만원 이하의 과태료를 부과한다.
+<개정 2019. 8. 20., 2023. 4. 18.>
+1. 제4조제4호를 위반하여 거짓으로 제3조에 따라 신고한 자(제26조제1항에 따라 벌칙을 부과받은 경우는 제외한다)
+2. 제4조제5호를 위반하여 거짓으로 제3조의2에 따라 신고한 자(제26조제1항에 따라 벌칙을 부과받은 경우는 제외한다)
+3. 제6조를 위반하여 거래대금 지급을 증명할 수 있는 자료를 제출하지 아니하거나 거짓으로 제출한 자 또는 그 밖의 필요한 조치를 이행하지 아니한 자
+② 다음 각 호의 어느 하나에 해당하는 자에게는 500만원 이하의 과태료를 부과한다.
+<개정 2019. 8. 20.>
+1. 제3조제1항부터 제4항까지의 규정을 위반하여 같은 항에 따른 신고를 하지 아니한 자(공동신고를 거부한 자를 포함한다)
+1의2. 제3조의2제1항을 위반하여 같은 항에 따른 신고를 하지 아니한 자(공동신고를 거부한 자를 포함한다)
+2. 제4조제1호를 위반하여 개업공인중개사에게 제3조에 따른 신고를 하지 아니하게 하거나 거짓으로 신고하도록 요구한 자
+3. 제4조제3호를 위반하여 거짓으로 제3조에 따른 신고를 하는 행위를 조장하거나 방조한 자
+4. 제6조를 위반하여 거래대금 지급을 증명할 수 있는 자료 외의 자료를 제출하지 아니하거나 거짓으로 제출한 자
+③ 제3조제1항부터 제4항까지 또는 제4조제2호를 위반하여 그 신고를 거짓으로 한 자에게는 해당 부동산등의 취득가액의 100분의 10 이하에 상당하는 금액의 과태료를 부과한다.
+<개정 2019. 8. 20., 2023. 4. 18.>
+④ 제8조제1항에 따른 신고를 하지 아니하거나 거짓으로 신고한 자에게는 300만원 이하의 과태료를 부과한다.
+⑤ 다음 각 호의 어느 하나에 해당하는 자에게는 100만원 이하의 과태료를 부과한다.
+<개정 2020. 8. 18.>
+1. 제8조제2항에 따른 취득의 신고를 하지 아니하거나 거짓으로 신고한 자
+2. 제8조제3항에 따른 토지의 계속보유 신고를 하지 아니하거나 거짓으로 신고한 자
+3. 제6조의2 또는 제6조의3에 따른 신고를 하지 아니하거나(공동신고를 거부한 자를 포함한다) 그 신고를 거짓으로 한 자
+⑥ 제1항부터 제5항까지에 따른 과태료는 대통령령으로 정하는 바에 따라 신고관청이 부과ㆍ징수한다. 이 경우 개업공인중개사에게 과태료를 부과한 신고관청은 부과일부터 10일 이내에 해당 개업공인중개사의 중개사무소(법인의 경우에는 주된 중개사무소를 말한다)를 관할하는 시장ㆍ군수 또는 구청장에 과태료 부과 사실을 통보하여야 한다.
+제29조(자진 신고자에 대한 감면 등)
+신고관청은 제28조제2항제1호부터 제3호까지 및 제3항부터 제5항까지의 어느 하나에 따른 위반사실을 자진 신고한 자에 대하여 대통령령으로 정하는 바에 따라 같은 규정에 따른 과태료를 감경 또는 면제할 수 있다.
+부칙
+<제20194호, 2024. 2. 6.>
+(자연유산의 보존 및 활용에 관한 법률)
+제1조
+(시행일) 이 법은 2024년 5월 17일부터 시행한다. <단서 생략>
+제2조
+(다른 법률의 개정) ①부터 ④까지 생략
+⑤ 법률 제19251호 부동산 거래신고 등에 관한 법률 일부를 다음과 같이 개정한다.
+제9조제1항제2호의2 중 “천연기념물ㆍ명승 및 시ㆍ도자연유산”을 “천연기념물등”으로 한다.
+
+⑥부터 ⑨까지 생략
+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jdG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAA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6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=
+Qk2iBwAAAAAAADYAAAAoAAAAGQAAABkAAAABABgAAAAAAGwHAAASFwAAEhcAAAAAAAAAAAAA/////////////////v7+/v7+/v7+/f7+/f7+/P39u9fMiYJOh1sLilgGmmwquJZr4NHB/f38/f7+//7+////////////////////AP////////7+/v7+/v7+/vz6+sq2pdfGvP7+/pjCsnlnH4dVAIhVAIhVAIdVAIhVAIhWAZxxL9G+o/z6+f7+//7+/v7+/v///////wD////////+/v7+/v7n3diMYTirim39/f3J4txpcjmHVQCJVgCJVgCJVgCJVgCJVgCJVgCHVQCHVQCfdjfq4NX9/v79/v7+/v7///8A/v7+/v7+/f7+2cq/dkQQcj0I6uLd/f7+gburhFwOiFUAiVYAiFYAiFYAiFYAiVYAiFYAh1UAiFUAh1UAjl4P28u3/f7+/v7+////AP3+/v7+/ung3HZEEW85AIJRHfr4+P7+/nG4pI9fBZBcAI1aAIlXAIhWAIhWAIdWAIdWAIhWAIlWAIlWAIlWAI5dD+vh1/7+/v///wD+/v759vWSZz53PgB8QgCLVBj49fP+/v6Ey7mbcBOgZgCeZQCZYgCTXgCMWQCJVgCIVgCJVgCJVgCJVgCJVgCIVgCheTz59/T///8A/v7+5tvTgEYEhEgAiEoAjE0B3su7/v7+tuXafZhVq24Aqm0Ap2wAo2kAnWQAlV8Ai1kAiFUAh1YAiVYAiVYAh1UAh1UAw6mE/f7+APz7+v38/LqUb45OAJFPAJJQAKhyN/n29Pj8+23OtZKSQbFxALBwAK1vAKltAKNpAJxjAJFbAIhWAIlWAIlWAIdVAIdVAI9fEvPt6ADfza3p3MT8+/vAmXaUUgCWUwCXUwDEnHf+/v7h9fBUzbF0rneqgR2ycgCvcACsbgClagCdZACQXACHVgCIVgCIVQCJVgCIVgDPup4AyqliuIkY5dKw/fz74My9toRQoF8aomIjzquP/Pv65/fzjd7LUMqtcK92o4QksHEArG8ApmsAnGQAjloAh1YAiFYAiVYAh1UAsIxXALyPKbWBALmEAsmhTufVtfr49vTs6Ni8qb+Tcr2NbObVyP79/dz173XXwVDLroGiXrFzBKxuAKVqAJpiAItYAIhWAIlWAIdVAJZnIAC3hAe4hAG/jCDElD3Imk7LoFzau43o1Lnz6N359/Ts4Njq3NX8+vn0+/mC28dWzrR4q3GxcgGrbgCiaACUXwCIVgCJVgCIVQCJVwIAt4MAvIkRw5M6yJpOy6BdzqVp0Klx0qx30q15061627yU7N3M/Pv6/v/+2/TvaNO8V861lpA9r3AAqGwAnWQAjFkAh1YAh1YAiFYAALmGA8COJ8aYR8ufWs+ladKqddu8k+XQte7h0fbw6Pz8+/r48/z6+P7+/vf8+37axmbSu22/lrBzBKxuAKFoAJJdAIdWAIhVAIhWAADCkSfDkjbIm1HZuYrs3Mb59vL9/f369u7y69ns4cbs3sD28OP+/v79/v79/v6Q389y1sFh0bmjjTmucACmawCYYQCJVwCHVQCQYBUA0Kpb069t9Ozg/v7++PXs7+PI6Niz59iz6ty89O7g/f38/v7+/v/+/v7+9vz7j9/Oe9nFa9S9i6tzsHEAqWwAnWQAi1gAh1UAp4FGAOnYu/z7+fv69+nasuLKkuTRo+bWr+zewPr59f7+/v7+/v7+/v7+/v7//9n07o7fzoDbyHLWwH+5kLJzBatuAJ9mAI1aAIdWAMSqhgD9/v749Ongx4HexIDhy5Hk0KHs4MP8+/j+/v7////+///+///+/v7v+ven5dmR4NCD28lz1sGCvpi0dg2rbgCgZgCPWwCKWQfp39QA/f7+7+PA2rtj3cJ44ciL5dKj/Pv5/v7+/v7+/v///v7+8/v51/LtrubbnuLVkeDQhNzJdNfBhbmQtHYNq24AoGcAj1sAsY9d/f7+AP7+/vv69t3Cb9u+bN7Ef+bTpP7+/v3+/uL18svv573r4bTo3q7m26Xk2Jrh1I7fz4Dbx3HWwZeqdbN1DKtuAKBmAJlpGfDp4/7+/gD9/v79/v3z6tDZul3cwHLgyIn7+vb8/f2r5tqp5dqq5tqp5dmk5Nic4tWS39GH3ct72cZr1L6vkEaycwOqbQCeZQLXxKr+/v7+/v4A/////////f7969yu2bpf3L9w7eC8/f7+vuvjmOHTm+LUmuHUluHSkN/Qid3MftvIctfCgMCbt3sZsHAAqGwBza+D/fz8/v7+////AP////////3+/v3+/vDlxNq9YNu+avTt2fr9/Kzn24fey4nezIbdyoHcyXnaxnHXwW7NsbGIMrJzAbF2D9zDov7+/f7+/v7+/v///wD////////////////+/v759u7m05nbv2j28eD9/v3R8uuY49Ny2cNu18Fn1b5yx6OtiSu1dgjMomHz6uD+/v7+/v7///////////8A/////////////////v7+/v7+/f7++fbt7+K//Pr2/f7+/f7+9vv6z+PWrrOHyZ1V3L2P9Ovj/v7+/v7+/v7+/v7+////////////AA==
+/9j/4QR6RXhpZgAATU0AKgAAAAgADAEAAAMAAAABABgAAAEBAAMAAAABABEAAAECAAMAAAADAAAAngEGAAMAAAABAAIAAAESAAMAAAABAAEAAAEVAAMAAAABAAMAAAEaAAUAAAABAAAApAEbAAUAAAABAAAArAEoAAMAAAABAAIAAAExAAIAAAAeAAAAtAEyAAIAAAAUAAAA0odpAAQAAAABAAAA6AAAASAACAAIAAgADqYAAAAnEAAOpgAAACcQQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykAMjAxNjowNDowMSAxNDowMjo0MQAAAAAEkAAABwAAAAQwMjIxoAEAAwAAAAH//wAAoAIABAAAAAEAAAAYoAMABAAAAAEAAAARAAAAAAAAAAYBAwADAAAAAQAGAAABGgAFAAAAAQAAAW4BGwAFAAAAAQAAAXYBKAADAAAAAQACAAACAQAEAAAAAQAAAX4CAgAEAAAAAQAAAvQAAAAAAAAASAAAAAEAAABIAAAAAf/Y/+0ADEFkb2JlX0NNAAL/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEVDwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAODhAUDg4OFBQODg4OFBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAARABgDASIAAhEBAxEB/90ABAAC/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGxQiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgU1AQACEQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH/9oADAMBAAIRAxEAPwD0P6w9ar6L0x+a5nq2Fza6KQY32vMVsn/pOWZXh/Xksblv6hji0+44HpN9Lx9L19rrm/u/zn/XFP699HzOrdBNeCC7JxbW5NTG8uLA9jms/l7LNzF5zldU+uX1hyqMO03etQYDWNNIa7vfftDNjm/6R/8ANqWGPijoQN+K/wAFvv8Aty+QTuuEEcQ/rPrXR+pHqOH6z6zTfW51WRSeWWsMWMSUei4l2PRa+8k25NvquJEEwyrH3ub+a630PW2/8IkodabNYvf2/V3fBf8A41x/3/1fG//Q9VSXyqkkp+qkl8qpJKf/2f/tDEBQaG90b3Nob3AgMy4wADhCSU0EBAAAAAAADxwBWgADGyVHHAIAAAKoAAA4QklNBCUAAAAAABAyxLCF4Ryh+iFUEgMgwUCtOEJJTQQ6AAAAAADlAAAAEAAAAAEAAAAAAAtwcmludE91dHB1dAAAAAUAAAAAUHN0U2Jvb2wBAAAAAEludGVlbnVtAAAAAEludGUAAAAAQ2xybQAAAA9wcmludFNpeHRlZW5CaXRib29sAAAAAAtwcmludGVyTmFtZVRFWFQAAAABAAAAAAAPcHJpbnRQcm9vZlNldHVwT2JqYwAAAAwAUAByAG8AbwBmACAAUwBlAHQAdQBwAAAAAAAKcHJvb2ZTZXR1cAAAAAEAAAAAQmx0bmVudW0AAAAMYnVpbHRpblByb29mAAAACXByb29mQ01ZSwA4QklNBDsAAAAAAi0AAAAQAAAAAQAAAAAAEnByaW50T3V0cHV0T3B0aW9ucwAAABcAAAAAQ3B0bmJvb2wAAAAAAENsYnJib29sAAAAAABSZ3NNYm9vbAAAAAAAQ3JuQ2Jvb2wAAAAAAENudENib29sAAAAAABMYmxzYm9vbAAAAAAATmd0dmJvb2wAAAAAAEVtbERib29sAAAAAABJbnRyYm9vbAAAAAAAQmNrZ09iamMAAAABAAAAAAAAUkdCQwAAAAMAAAAAUmQgIGRvdWJAb+AAAAAAAAAAAABHcm4gZG91YkBv4AAAAAAAAAAAAEJsICBkb3ViQG/gAAAAAAAAAAAAQnJkVFVudEYjUmx0AAAAAAAAAAAAAAAAQmxkIFVudEYjUmx0AAAAAAAAAAAAAAAAUnNsdFVudEYjUHhsQFgAAAAAAAAAAAAKdmVjdG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAA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6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=
+
+iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABaklEQVR42u2X0YpDIQxEhfyWkF8X8lsBd2bKLt4tfUv65K29Rc+DcRwTO/anZ1xyySVdZI1h6YHfOYydJhJsC4O2l6nTRNBftjzxjRBsIzmmY7XRTXbknJDTOglaYp37T94eQlPE7/PmnToiClG5bf52FurIopJrOhxPN0Yf4cuxddMSn2gikZw/GQXYY09LScqIrkBgy+ldRIPLUpZ/RFBKto4vxxZ2Dz5pIhByoOGRptOaCCJwrY/HGBnDu4iCwCJRN+hIayIc0rbZxnufipYSLhBz50AFRDsULSaQEQj2cFQOFI4momTkkjK05CZCtDnkjOZxskqJyiv0ZIqFRY4IaglSq4tz8ohT61ISzBIQUhlpDN9N5OV6hhFLm9dEVNGZL3i5i1PRWkIlaUVd7ChqF+G8TEjIelS0kzDLsj7pLDcSVXVkwPnISMXkdbimM445jopRS+QQXu14j0z/78Qycv9rXnLJ18gPGaltKrrIT1kAAAAASUVORK5CYII=
