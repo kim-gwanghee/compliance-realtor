@@ -50,3 +50,4 @@ app_streamlit.py
 __pycache__/
 *.pyc
 .venv/
+.env.local
