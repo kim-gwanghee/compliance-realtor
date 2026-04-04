@@ -520,6 +520,11 @@ export default function ChatPage() {
   async function sendMessage(text: string) {
     if (!text.trim() || isLoading) return;
 
+    if (!user) {
+      setShowAuth(true);
+      return;
+    }
+
     const userMessage: Message = { role: "user", content: text.trim() };
     const newMessages = [...messages, userMessage];
     setMessages(newMessages);
