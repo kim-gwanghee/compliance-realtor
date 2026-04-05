@@ -1,4 +1,4 @@
-import { createSupabaseBrowser } from "@/lib/supabase";
+import { createSupabaseAdmin } from "@/lib/supabase-server";
 
 export async function GET(request: Request) {
   const url = new URL(request.url);
@@ -8,7 +8,7 @@ export async function GET(request: Request) {
     return Response.json({ error: "user_id 필요" }, { status: 400 });
   }
 
-  const supabase = createSupabaseBrowser();
+  const supabase = createSupabaseAdmin();
 
   // 구독 상태 조회
   const { data: sub } = await supabase

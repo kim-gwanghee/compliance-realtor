@@ -474,27 +474,17 @@ export default function ChatPage() {
 
   async function incrementDailyUsage() {
     if (!user) return;
-    const today = new Date().toISOString().split("T")[0];
-    const { data: existing } = await supabase
-      .from("daily_usage")
-      .select("count")
-      .eq("user_id", user.id)
-      .eq("usage_date", today)
-      .single();
-
-    if (existing) {
-      await supabase
-        .from("daily_usage")
-        .update({ count: existing.count + 1 })
-        .eq("user_id", user.id)
-        .eq("usage_date", today);
-      setDailyCount(existing.count + 1);
-    } else {
-      await supabase
-        .from("daily_usage")
-        .insert({ user_id: user.id, usage_date: today, count: 1 });
-      setDailyCount(1);
-    }
+    try {
+      const res = await fetch("/api/subscription/usage", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userId: user.id }),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        setDailyCount(data.dailyCount);
+      }
+    } catch { /* ignore */ }
   }
 
   async function handleSubscribe() {
