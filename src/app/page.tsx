@@ -480,11 +480,15 @@ export default function ChatPage() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ userId: user.id }),
       });
-      if (res.ok) {
-        const data = await res.json();
+      const data = await res.json();
+      if (res.ok && typeof data.dailyCount === "number") {
         setDailyCount(data.dailyCount);
       }
-    } catch { /* ignore */ }
+    } catch (err) {
+      console.error("incrementDailyUsage error:", err);
+      // 서버 실패 시 로컬에서라도 카운트 증가
+      setDailyCount((prev) => prev + 1);
+    }
   }
 
   async function handleSubscribe() {
