@@ -131,3 +131,52 @@ create index if not exists idx_posts_category on posts(category, created_at desc
 create index if not exists idx_posts_created on posts(created_at desc);
 create index if not exists idx_replies_post on replies(post_id, created_at);
 create index if not exists idx_post_likes_post on post_likes(post_id);
+
+-- ─── 구독 결제 ───
+
+-- 구독 정보
+create table if not exists subscriptions (
+  id uuid default gen_random_uuid() primary key,
+  user_id uuid references auth.users(id) on delete cascade not null unique,
+  plan text check (plan in ('free', 'pro')) not null default 'free',
+  kakao_sid text,  -- 카카오페이 정기결제 SID
+  kakao_tid text,  -- 최근 결제 TID
+  started_at timestamptz,
+  expires_at timestamptz,
+  created_at timestamptz default now() not null,
+  updated_at timestamptz default now() not null
+);
+
+-- 일일 사용량 추적
+create table if not exists daily_usage (
+  id uuid default gen_random_uuid() primary key,
+  user_id uuid references auth.users(id) on delete cascade not null,
+  usage_date date not null default current_date,
+  count int not null default 0,
+  unique (user_id, usage_date)
+);
+
+-- RLS
+alter table subscriptions enable row level security;
+alter table daily_usage enable row level security;
+
+create policy "Users can read own subscription"
+  on subscriptions for select using (auth.uid() = user_id);
+create policy "Service can manage subscriptions"
+  on subscriptions for all using (auth.uid() = user_id)
+  with check (auth.uid() = user_id);
+
+create policy "Users can read own usage"
+  on daily_usage for select using (auth.uid() = user_id);
+create policy "Users can manage own usage"
+  on daily_usage for all using (auth.uid() = user_id)
+  with check (auth.uid() = user_id);
+
+-- 트리거
+create trigger subscriptions_updated_at
+  before update on subscriptions
+  for each row execute function update_updated_at();
+
+-- 인덱스
+create index if not exists idx_subscriptions_user on subscriptions(user_id);
+create index if not exists idx_daily_usage_user_date on daily_usage(user_id, usage_date);

@@ -344,6 +344,65 @@ function AuthModal({ onClose }: { onClose: () => void }) {
   );
 }
 
+// ─── Pricing Modal ───
+function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; onSubscribe: () => void; loading: boolean }) {
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40" onClick={onClose}>
+      <div
+        className="w-full max-w-md mx-4 rounded-2xl p-6 border shadow-xl"
+        style={{ background: "var(--bg-surface)", borderColor: "var(--border-color)" }}
+        onClick={(e) => e.stopPropagation()}
+      >
+        <h2 className="text-lg font-bold mb-1">오늘의 무료 질문을 모두 사용했습니다</h2>
+        <p className="text-sm mb-5" style={{ color: "var(--text-secondary)" }}>
+          프로 플랜으로 업그레이드하면 무제한으로 질문할 수 있습니다.
+        </p>
+
+        <div className="grid grid-cols-2 gap-3 mb-5">
+          {/* Free */}
+          <div className="rounded-xl border p-4" style={{ borderColor: "var(--border-color)" }}>
+            <div className="text-sm font-semibold mb-1">무료</div>
+            <div className="text-2xl font-bold mb-3">0<span className="text-sm font-normal">원/월</span></div>
+            <ul className="text-xs space-y-1.5" style={{ color: "var(--text-secondary)" }}>
+              <li>- 하루 3회 질문</li>
+              <li>- 대화 저장 불가</li>
+            </ul>
+          </div>
+          {/* Pro */}
+          <div className="rounded-xl border-2 border-blue-500 p-4 relative">
+            <div className="absolute -top-2.5 left-3 bg-blue-600 text-white text-xs px-2 py-0.5 rounded-full">추천</div>
+            <div className="text-sm font-semibold mb-1">프로</div>
+            <div className="text-2xl font-bold mb-3">9,900<span className="text-sm font-normal">원/월</span></div>
+            <ul className="text-xs space-y-1.5" style={{ color: "var(--text-secondary)" }}>
+              <li>- 무제한 질문</li>
+              <li>- 대화 기록 저장</li>
+              <li>- 북마크 기능</li>
+            </ul>
+          </div>
+        </div>
+
+        <button
+          onClick={onSubscribe}
+          disabled={loading}
+          className="w-full py-3 rounded-xl text-sm font-medium transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
+          style={{ background: "#FEE500", color: "#191919" }}
+        >
+          <svg width="18" height="18" viewBox="0 0 18 18"><path fill="#191919" d="M9 1C4.58 1 1 3.79 1 7.21c0 2.17 1.45 4.08 3.64 5.18l-.93 3.44c-.08.28.24.5.48.34l4.11-2.72c.23.02.46.03.7.03 4.42 0 8-2.79 8-6.27C17 3.79 13.42 1 9 1z"/></svg>
+          {loading ? "처리 중..." : "카카오페이로 구독하기"}
+        </button>
+
+        <button
+          onClick={onClose}
+          className="w-full mt-2 py-2 text-xs transition-colors"
+          style={{ color: "var(--text-muted)" }}
+        >
+          내일 다시 무료로 사용하기
+        </button>
+      </div>
+    </div>
+  );
+}
+
 // ─── Main Chat Page ───
 export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>([]);
@@ -369,6 +428,12 @@ export default function ChatPage() {
   // Bookmark state
   const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(new Set());
 
+  // Subscription state
+  const [plan, setPlan] = useState<"free" | "pro">("free");
+  const [dailyCount, setDailyCount] = useState(0);
+  const [showPricing, setShowPricing] = useState(false);
+  const [paymentLoading, setPaymentLoading] = useState(false);
+
   // Initialize auth listener
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
@@ -382,15 +447,79 @@ export default function ChatPage() {
     return () => subscription.unsubscribe();
   }, []);
 
-  // Load conversations when user logs in
+  // Load conversations & subscription when user logs in
   useEffect(() => {
     if (!user) {
       setConversations([]);
       setCurrentConvId(null);
+      setPlan("free");
+      setDailyCount(0);
       return;
     }
     loadConversations();
+    loadSubscriptionStatus();
   }, [user]);
+
+  async function loadSubscriptionStatus() {
+    if (!user) return;
+    try {
+      const res = await fetch(`/api/subscription/status?user_id=${user.id}`);
+      if (res.ok) {
+        const data = await res.json();
+        setPlan(data.plan);
+        setDailyCount(data.dailyCount);
+      }
+    } catch { /* ignore */ }
+  }
+
+  async function incrementDailyUsage() {
+    if (!user) return;
+    const today = new Date().toISOString().split("T")[0];
+    const { data: existing } = await supabase
+      .from("daily_usage")
+      .select("count")
+      .eq("user_id", user.id)
+      .eq("usage_date", today)
+      .single();
+
+    if (existing) {
+      await supabase
+        .from("daily_usage")
+        .update({ count: existing.count + 1 })
+        .eq("user_id", user.id)
+        .eq("usage_date", today);
+      setDailyCount(existing.count + 1);
+    } else {
+      await supabase
+        .from("daily_usage")
+        .insert({ user_id: user.id, usage_date: today, count: 1 });
+      setDailyCount(1);
+    }
+  }
+
+  async function handleSubscribe() {
+    if (!user) return;
+    setPaymentLoading(true);
+    try {
+      const res = await fetch("/api/subscription/ready", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userId: user.id }),
+      });
+      const data = await res.json();
+      if (data.redirect_url) {
+        // 모바일이면 모바일 URL 사용
+        const isMobile = /iPhone|iPad|Android/i.test(navigator.userAgent);
+        window.location.href = isMobile && data.redirect_mobile_url
+          ? data.redirect_mobile_url
+          : data.redirect_url;
+      }
+    } catch {
+      alert("결제 요청에 실패했습니다. 다시 시도해주세요.");
+    } finally {
+      setPaymentLoading(false);
+    }
+  }
 
   async function loadConversations() {
     const { data } = await supabase
@@ -415,6 +544,18 @@ export default function ChatPage() {
         if (data) setBookmarkedIds(new Set(data.map((b) => b.message_id)));
       });
   }, [user, currentConvId]);
+
+  // Handle payment return
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const payment = params.get("payment");
+    if (payment === "success") {
+      loadSubscriptionStatus();
+      window.history.replaceState({}, "", "/");
+    } else if (payment === "cancel" || payment === "fail") {
+      window.history.replaceState({}, "", "/");
+    }
+  }, []);
 
   // Initialize dark mode from system preference / localStorage
   useEffect(() => {
@@ -525,6 +666,12 @@ export default function ChatPage() {
       return;
     }
 
+    // 무료 플랜 일일 3회 제한
+    if (plan !== "pro" && dailyCount >= 3) {
+      setShowPricing(true);
+      return;
+    }
+
     const userMessage: Message = { role: "user", content: text.trim() };
     const newMessages = [...messages, userMessage];
     setMessages(newMessages);
@@ -611,6 +758,9 @@ export default function ChatPage() {
 
       setMessages([...newMessages, assistantMsg]);
       setStreamingContent("");
+
+      // 사용량 증가
+      await incrementDailyUsage();
     } catch (err) {
       if (timerRef.current) clearInterval(timerRef.current);
       const errMsg = err instanceof Error ? err.message : String(err);
@@ -646,6 +796,13 @@ export default function ChatPage() {
     <div className="h-full flex flex-col" style={{ background: "var(--bg-main)", color: "var(--text-primary)" }}>
       {/* Auth Modal */}
       {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
+      {showPricing && (
+        <PricingModal
+          onClose={() => setShowPricing(false)}
+          onSubscribe={handleSubscribe}
+          loading={paymentLoading}
+        />
+      )}
 
       {/* Header */}
       <header className="px-4 py-3 flex items-center justify-between shrink-0 border-b" style={{ background: "var(--bg-surface)", borderColor: "var(--border-color)" }}>
@@ -696,6 +853,18 @@ export default function ChatPage() {
           {/* Auth buttons */}
           {user ? (
             <div className="flex items-center gap-2">
+              {plan === "pro" ? (
+                <span className="text-xs px-2 py-0.5 rounded-full bg-blue-600 text-white font-medium">PRO</span>
+              ) : (
+                <button
+                  onClick={() => setShowPricing(true)}
+                  className="text-xs px-2 py-0.5 rounded-full border transition-colors"
+                  style={{ borderColor: "var(--border-color)", color: "var(--text-muted)" }}
+                  title="프로 플랜 업그레이드"
+                >
+                  {dailyCount}/3
+                </button>
+              )}
               <span className="text-xs hidden sm:inline" style={{ color: "var(--text-secondary)" }}>
                 {user.email?.split("@")[0]}
               </span>
@@ -810,7 +979,13 @@ export default function ChatPage() {
                 {!user && (
                   <p className="mb-4 text-sm" style={{ color: "var(--text-secondary)" }}>
                     <button onClick={() => setShowAuth(true)} className="text-blue-600 font-medium">로그인</button>하면
-                    대화 기록과 북마크를 저장할 수 있습니다.
+                    하루 3회 무료로 질문할 수 있습니다.
+                  </p>
+                )}
+                {user && plan !== "pro" && (
+                  <p className="mb-4 text-sm" style={{ color: "var(--text-secondary)" }}>
+                    오늘 남은 질문: <strong>{3 - dailyCount}회</strong> ·{" "}
+                    <button onClick={() => setShowPricing(true)} className="text-blue-600 font-medium">프로 구독</button>으로 무제한 이용
                   </p>
                 )}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-w-lg w-full">
