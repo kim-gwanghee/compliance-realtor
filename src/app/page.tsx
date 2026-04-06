@@ -245,7 +245,11 @@ function AuthModal({ onClose }: { onClose: () => void }) {
         onClose();
       }
     } else {
-      const { error } = await supabase.auth.signUp({ email, password });
+      const { error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: { emailRedirectTo: `${window.location.origin}/auth/callback` },
+      });
       if (error) {
         setError(error.message);
       } else {
@@ -819,7 +823,7 @@ export default function ChatPage() {
             </p>
           </div>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1 sm:gap-2 whitespace-nowrap">
           <button
             onClick={toggleDarkMode}
             className="p-2 rounded-lg transition-colors"
@@ -831,14 +835,14 @@ export default function ChatPage() {
           </button>
           <Link
             href="/community"
-            className="text-sm px-3 py-1.5 rounded-lg transition-colors"
+            className="hidden sm:inline-block text-sm px-3 py-1.5 rounded-lg transition-colors"
             style={{ color: "var(--text-secondary)" }}
           >
             커뮤니티
           </Link>
           <button
             onClick={startNewConversation}
-            className="text-sm px-3 py-1.5 rounded-lg transition-colors"
+            className="text-xs sm:text-sm px-2 sm:px-3 py-1.5 rounded-lg transition-colors"
             style={{ color: "var(--text-secondary)" }}
           >
             새 대화
@@ -846,7 +850,7 @@ export default function ChatPage() {
 
           {/* Auth buttons */}
           {user ? (
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-1 sm:gap-2">
               {plan === "pro" ? (
                 <span className="text-xs px-2 py-0.5 rounded-full bg-blue-600 text-white font-medium">PRO</span>
               ) : (
@@ -864,7 +868,7 @@ export default function ChatPage() {
               </span>
               <button
                 onClick={handleLogout}
-                className="text-xs px-2.5 py-1.5 rounded-lg border transition-colors"
+                className="text-xs px-2 sm:px-2.5 py-1.5 rounded-lg border transition-colors"
                 style={{ borderColor: "var(--border-color)", color: "var(--text-secondary)" }}
               >
                 로그아웃
