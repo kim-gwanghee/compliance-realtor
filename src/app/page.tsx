@@ -971,43 +971,21 @@ export default function ChatPage() {
                 <h2 className="text-xl font-bold mb-2">
                   부동산 중개 법령 가이드
                 </h2>
-                <p className="mb-6 max-w-md" style={{ color: "var(--text-secondary)" }}>
+                <p className="mb-4 max-w-md" style={{ color: "var(--text-secondary)" }}>
                   공인중개사 업무에 필요한 법령 정보를 AI가 관련 조문과 함께 안내해 드립니다.
                 </p>
                 {!user && (
-                  <p className="mb-4 text-sm" style={{ color: "var(--text-secondary)" }}>
+                  <p className="text-sm" style={{ color: "var(--text-secondary)" }}>
                     <button onClick={() => setShowAuth(true)} className="text-blue-600 font-medium">로그인</button>하면
                     하루 3회 무료로 질문할 수 있습니다.
                   </p>
                 )}
                 {user && plan !== "pro" && (
-                  <p className="mb-4 text-sm" style={{ color: "var(--text-secondary)" }}>
+                  <p className="text-sm" style={{ color: "var(--text-secondary)" }}>
                     오늘 남은 질문: <strong>{3 - dailyCount}회</strong> ·{" "}
                     <button onClick={() => setShowPricing(true)} className="text-blue-600 font-medium">프로 구독</button>으로 무제한 이용
                   </p>
                 )}
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-w-lg w-full">
-                  {EXAMPLE_QUESTIONS.slice(0, 4).map((q, i) => (
-                    <button
-                      key={i}
-                      onClick={() => sendMessage(q)}
-                      className="text-left text-sm p-3 rounded-xl border transition-colors"
-                      style={{ borderColor: "var(--border-color)", color: "var(--text-primary)" }}
-                      onMouseEnter={(e) => {
-                        e.currentTarget.style.borderColor = "var(--color-primary)";
-                        e.currentTarget.style.color = "var(--color-primary)";
-                        e.currentTarget.style.background = darkMode ? "rgba(41,98,255,0.1)" : "#eff6ff";
-                      }}
-                      onMouseLeave={(e) => {
-                        e.currentTarget.style.borderColor = "var(--border-color)";
-                        e.currentTarget.style.color = "var(--text-primary)";
-                        e.currentTarget.style.background = "transparent";
-                      }}
-                    >
-                      {q}
-                    </button>
-                  ))}
-                </div>
               </div>
             )}
 
@@ -1124,6 +1102,27 @@ export default function ChatPage() {
               <div ref={messagesEndRef} />
             </div>
           </div>
+
+          {/* Example questions - horizontal scroll */}
+          {messages.length === 0 && !streamingContent && (
+            <div className="shrink-0 px-4 pt-2 pb-1" style={{ background: "var(--bg-surface)" }}>
+              <div className="max-w-3xl mx-auto overflow-x-auto scrollbar-hide">
+                <div className="flex gap-2 pb-1" style={{ minWidth: "max-content" }}>
+                  {EXAMPLE_QUESTIONS.map((q, i) => (
+                    <button
+                      key={i}
+                      onClick={() => sendMessage(q)}
+                      disabled={isLoading}
+                      className="shrink-0 text-xs px-3 py-2 rounded-full border transition-colors disabled:opacity-50"
+                      style={{ borderColor: "var(--border-color)", color: "var(--text-secondary)" }}
+                    >
+                      {q}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* Input area */}
           <div className="border-t px-4 py-3 shrink-0" style={{ background: "var(--bg-surface)", borderColor: "var(--border-color)" }}>
