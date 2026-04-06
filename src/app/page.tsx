@@ -973,7 +973,8 @@ export default function ChatPage() {
                   부동산 중개 법령 가이드
                 </h2>
                 <p className="mb-4 max-w-md" style={{ color: "var(--text-secondary)" }}>
-                  공인중개사 업무에 필요한 법령 정보를 AI가 관련 조문과 함께 안내해 드립니다.
+                  공인중개사 업무에 필요한 법령 정보를<br />
+                  AI가 관련 조문과 함께 안내해 드립니다.
                 </p>
                 {!user && (
                   <p className="text-sm" style={{ color: "var(--text-secondary)" }}>
