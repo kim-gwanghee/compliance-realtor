@@ -558,12 +558,14 @@ export default function ChatPage() {
     }
   }, []);
 
-  // Initialize dark mode from system preference / localStorage
+  // Initialize dark mode — default is light, only apply dark if explicitly saved
   useEffect(() => {
     const stored = localStorage.getItem("theme");
-    if (stored === "dark" || (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+    if (stored === "dark") {
       setDarkMode(true);
       document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
     }
   }, []);
 
@@ -584,9 +586,7 @@ export default function ChatPage() {
     scrollToBottom();
   }, [messages, streamingContent]);
 
-  useEffect(() => {
-    inputRef.current?.focus();
-  }, []);
+  // 모바일에서 키보드 자동 올라오는 것 방지 — 자동 포커스 제거
 
   // ─── DB helpers ───
   async function ensureConversation(firstMsg: string): Promise<string | null> {
