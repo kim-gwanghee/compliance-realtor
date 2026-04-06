@@ -1,5 +1,6 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { buildRagContext } from "@/lib/rag-search";
+import { searchCases, buildCaseContext } from "@/lib/case-search";
 
 const SYSTEM_BASE = `당신은 공인중개사 업무에 특화된 법령 정보 안내 AI입니다.
 법률 자문이 아닌 법령 정보를 안내합니다.
@@ -16,7 +17,7 @@ const SYSTEM_BASE = `당신은 공인중개사 업무에 특화된 법령 정보
 5. 조문 번호를 인용할 때, 반드시 아래 법령 전문에서 해당 조문이 존재하는지 확인 후 인용할 것
 6. 위반 시 과태료/벌칙이 있는 경우 해당 조항과 금액을 함께 안내할 것
 
-## 답변 형식 (반드시 아래 4개 섹션을 모두 포함할 것)
+## 답변 형식 (반드시 아래 섹션을 모두 포함할 것)
 ### 1. 핵심 결론
 - 질문에 대한 답을 먼저 명확하게 1~3문장으로 제시
 ### 2. 관련 법령 조문
@@ -25,6 +26,8 @@ const SYSTEM_BASE = `당신은 공인중개사 업무에 특화된 법령 정보
 - 조문을 현장 실무 관점에서 풀어서 설명 (시나리오 예시 포함)
 ### 4. 위반 시 제재
 - 과태료, 벌칙, 행정처분 등을 조항과 금액 포함하여 안내
+### 5. 관련 판례 (판례 정보가 제공된 경우에만 포함)
+- 제공된 판례를 요약하여 실무와 연결하여 설명
 
 ## 스코프 제한
 아래 제공된 법령 조문에 포함되지 않는 질문에는 "현재 제공하는 법령 범위를 벗어나는 질문입니다. 국가법령정보센터(law.go.kr)에서 확인하시기 바랍니다."라고 안내하세요.
@@ -42,8 +45,9 @@ export async function POST(request: Request) {
     );
   }
 
-  const { messages } = (await request.json()) as {
+  const { messages, isPro } = (await request.json()) as {
     messages: { role: "user" | "assistant"; content: string }[];
+    isPro?: boolean;
   };
 
   // Find the latest user message for RAG context
@@ -56,7 +60,15 @@ export async function POST(request: Request) {
   }
 
   const ragContext = buildRagContext(query);
-  const systemPrompt = `${SYSTEM_BASE}\n\n---\n\n## 관련 법령 조문\n\n${ragContext}`;
+
+  // 프로 플랜: 판례 검색 추가
+  let caseContext = "";
+  if (isPro && query) {
+    const cases = await searchCases(query, 3);
+    caseContext = buildCaseContext(cases);
+  }
+
+  const systemPrompt = `${SYSTEM_BASE}\n\n---\n\n## 관련 법령 조문\n\n${ragContext}${caseContext ? `\n\n---\n\n${caseContext}` : ""}`;
 
   const client = new Anthropic({ apiKey });
 

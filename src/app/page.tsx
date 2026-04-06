@@ -90,6 +90,7 @@ const SECTION_DEFS = [
   { pattern: /2[.\s]*관련\s*법령/i, label: "2. 관련 법령" },
   { pattern: /3[.\s]*실무적?\s*해석/i, label: "3. 실무 해석" },
   { pattern: /4[.\s]*위반\s*시\s*제재/i, label: "4. 위반 시 제재" },
+  { pattern: /5[.\s]*관련\s*판례/i, label: "5. 관련 판례" },
 ];
 
 function splitMarkdownSections(md: string): { before: string; sections: { label: string; body: string }[] } {
@@ -705,7 +706,10 @@ export default function ChatPage() {
       const response = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ messages: newMessages.map((m) => ({ role: m.role, content: m.content })) }),
+        body: JSON.stringify({
+          messages: newMessages.map((m) => ({ role: m.role, content: m.content })),
+          isPro: plan === "pro",
+        }),
       });
 
       if (!response.ok) {
