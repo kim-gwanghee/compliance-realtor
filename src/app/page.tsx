@@ -423,6 +423,7 @@ export default function ChatPage() {
 
   // Auth state
   const [user, setUser] = useState<User | null>(null);
+  const [authLoading, setAuthLoading] = useState(true);
   const [showAuth, setShowAuth] = useState(false);
 
   // Conversation state
@@ -442,10 +443,12 @@ export default function ChatPage() {
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       setUser(session?.user ?? null);
+      setAuthLoading(false);
     });
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event: string, session: Session | null) => {
       setUser(session?.user ?? null);
+      setAuthLoading(false);
     });
 
     return () => subscription.unsubscribe();
@@ -850,7 +853,12 @@ export default function ChatPage() {
           </button>
 
           {/* Auth buttons */}
-          {user ? (
+          {authLoading ? (
+            <div className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border" style={{ borderColor: "var(--border-color)", color: "var(--text-muted)" }}>
+              <div className="w-3 h-3 border-2 border-current border-t-transparent rounded-full animate-spin" />
+              로그인 중...
+            </div>
+          ) : user ? (
             <div className="flex items-center gap-1 sm:gap-2">
               {plan === "pro" ? (
                 <span className="text-xs px-2 py-0.5 rounded-full bg-blue-600 text-white font-medium">PRO</span>
