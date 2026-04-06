@@ -813,10 +813,11 @@ export default function ChatPage() {
           >
             <MenuIcon />
           </button>
-          <div>
-            <h1 className="text-lg font-bold flex items-center gap-2">
-              <span className="text-xl">🏠</span>
-              부동산 중개 법령 가이드
+          <div className="min-w-0">
+            <h1 className="text-sm sm:text-lg font-bold flex items-center gap-1.5 sm:gap-2 whitespace-nowrap">
+              <span className="text-base sm:text-xl">🏠</span>
+              <span className="truncate">법령 가이드</span>
+              <span className="hidden sm:inline truncate">— 부동산 중개</span>
             </h1>
             <p className="text-xs hidden sm:block" style={{ color: "var(--text-secondary)" }}>
               법률 자문이 아닌 법령 정보 안내 서비스 · 2026년 3월 기준
