@@ -4,10 +4,16 @@ const KAKAO_ADMIN_KEY = process.env.KAKAO_ADMIN_KEY!;
 const KAKAO_CID = process.env.KAKAO_PAY_CID || "TCSUBSCRIP"; // 테스트용 정기결제 CID
 
 export async function POST(request: Request) {
-  const { userId } = (await request.json()) as { userId: string };
+  const { userId, billing = "monthly" } = (await request.json()) as { userId: string; billing?: "monthly" | "yearly" };
   if (!userId) {
     return Response.json({ error: "userId 필요" }, { status: 400 });
   }
+
+  const isYearly = billing === "yearly";
+  const amount = isYearly ? 99000 : 9900;
+  const itemName = isYearly
+    ? "Compliance for Realtors 프로 연간 구독"
+    : "Compliance for Realtors 프로 월간 구독";
 
   const origin = request.headers.get("origin") || "http://localhost:3000";
 
@@ -19,13 +25,13 @@ export async function POST(request: Request) {
     },
     body: JSON.stringify({
       cid: KAKAO_CID,
-      partner_order_id: `sub_${userId}`,
+      partner_order_id: `sub_${billing}_${userId}`,
       partner_user_id: userId,
-      item_name: "Compliance for Realtors 프로 구독",
+      item_name: itemName,
       quantity: 1,
-      total_amount: 9900,
+      total_amount: amount,
       tax_free_amount: 0,
-      approval_url: `${origin}/api/subscription/approve?user_id=${userId}`,
+      approval_url: `${origin}/api/subscription/approve?user_id=${userId}&billing=${billing}`,
       cancel_url: `${origin}?payment=cancel`,
       fail_url: `${origin}?payment=fail`,
     }),

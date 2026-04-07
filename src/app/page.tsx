@@ -350,7 +350,9 @@ function AuthModal({ onClose }: { onClose: () => void }) {
 }
 
 // ─── Pricing Modal ───
-function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; onSubscribe: () => void; loading: boolean }) {
+function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; onSubscribe: (billing: "monthly" | "yearly") => void; loading: boolean }) {
+  const [billing, setBilling] = useState<"monthly" | "yearly">("monthly");
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40" onClick={onClose}>
       <div
@@ -362,6 +364,24 @@ function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; 
         <p className="text-sm mb-5" style={{ color: "var(--text-secondary)" }}>
           프로 플랜으로 업그레이드하면 무제한으로 질문할 수 있습니다.
         </p>
+
+        {/* Billing toggle */}
+        <div className="flex items-center justify-center gap-1 mb-4 p-1 rounded-xl" style={{ background: "var(--bg-surface-hover)" }}>
+          <button
+            onClick={() => setBilling("monthly")}
+            className={`flex-1 text-xs py-2 rounded-lg font-medium transition-colors ${billing === "monthly" ? "bg-white shadow-sm" : ""}`}
+            style={billing === "monthly" ? { color: "var(--text-primary)" } : { color: "var(--text-muted)" }}
+          >
+            월간
+          </button>
+          <button
+            onClick={() => setBilling("yearly")}
+            className={`flex-1 text-xs py-2 rounded-lg font-medium transition-colors ${billing === "yearly" ? "bg-white shadow-sm" : ""}`}
+            style={billing === "yearly" ? { color: "var(--text-primary)" } : { color: "var(--text-muted)" }}
+          >
+            연간 <span className="text-blue-600 font-bold">17% 할인</span>
+          </button>
+        </div>
 
         <div className="grid grid-cols-2 gap-3 mb-5">
           {/* Free */}
@@ -377,7 +397,14 @@ function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; 
           <div className="rounded-xl border-2 border-blue-500 p-4 relative">
             <div className="absolute -top-2.5 left-3 bg-blue-600 text-white text-xs px-2 py-0.5 rounded-full">추천</div>
             <div className="text-sm font-semibold mb-1">프로</div>
-            <div className="text-2xl font-bold mb-3">9,900<span className="text-sm font-normal">원/월</span></div>
+            {billing === "monthly" ? (
+              <div className="text-2xl font-bold mb-3">9,900<span className="text-sm font-normal">원/월</span></div>
+            ) : (
+              <div className="mb-3">
+                <div className="text-2xl font-bold">99,000<span className="text-sm font-normal">원/년</span></div>
+                <div className="text-xs" style={{ color: "var(--text-muted)" }}>월 8,250원 · 연 19,800원 절약</div>
+              </div>
+            )}
             <ul className="text-xs space-y-1.5" style={{ color: "var(--text-secondary)" }}>
               <li>- 무제한 질문</li>
               <li>- 관련 판례 검색</li>
@@ -388,13 +415,13 @@ function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; 
         </div>
 
         <button
-          onClick={onSubscribe}
+          onClick={() => onSubscribe(billing)}
           disabled={loading}
           className="w-full py-3 rounded-xl text-sm font-medium transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
           style={{ background: "#FEE500", color: "#191919" }}
         >
           <svg width="18" height="18" viewBox="0 0 18 18"><path fill="#191919" d="M9 1C4.58 1 1 3.79 1 7.21c0 2.17 1.45 4.08 3.64 5.18l-.93 3.44c-.08.28.24.5.48.34l4.11-2.72c.23.02.46.03.7.03 4.42 0 8-2.79 8-6.27C17 3.79 13.42 1 9 1z"/></svg>
-          {loading ? "처리 중..." : "카카오페이로 구독하기"}
+          {loading ? "처리 중..." : billing === "monthly" ? "월 9,900원 구독하기" : "연 99,000원 구독하기"}
         </button>
 
         <button
@@ -500,14 +527,14 @@ export default function ChatPage() {
     }
   }
 
-  async function handleSubscribe() {
+  async function handleSubscribe(billing: "monthly" | "yearly" = "monthly") {
     if (!user) return;
     setPaymentLoading(true);
     try {
       const res = await fetch("/api/subscription/ready", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userId: user.id }),
+        body: JSON.stringify({ userId: user.id, billing }),
       });
       const data = await res.json();
       if (data.redirect_url) {
@@ -805,7 +832,7 @@ export default function ChatPage() {
       {showPricing && (
         <PricingModal
           onClose={() => setShowPricing(false)}
-          onSubscribe={handleSubscribe}
+          onSubscribe={(billing) => handleSubscribe(billing)}
           loading={paymentLoading}
         />
       )}

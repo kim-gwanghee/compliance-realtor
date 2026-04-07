@@ -7,6 +7,7 @@ const KAKAO_CID = process.env.KAKAO_PAY_CID || "TCSUBSCRIP";
 export async function GET(request: NextRequest) {
   const pgToken = request.nextUrl.searchParams.get("pg_token");
   const userId = request.nextUrl.searchParams.get("user_id");
+  const billing = request.nextUrl.searchParams.get("billing") || "monthly";
 
   if (!pgToken || !userId) {
     return Response.redirect(new URL("/?payment=fail", request.url));
@@ -35,7 +36,7 @@ export async function GET(request: NextRequest) {
     body: JSON.stringify({
       cid: KAKAO_CID,
       tid: sub.kakao_tid,
-      partner_order_id: `sub_${userId}`,
+      partner_order_id: `sub_${billing}_${userId}`,
       partner_user_id: userId,
       pg_token: pgToken,
     }),
@@ -47,9 +48,10 @@ export async function GET(request: NextRequest) {
     return Response.redirect(new URL("/?payment=fail", request.url));
   }
 
-  // 구독 정보 업데이트 (SID 저장, 30일 구독)
+  // 구독 정보 업데이트
   const now = new Date();
-  const expiresAt = new Date(now.getTime() + 30 * 24 * 60 * 60 * 1000);
+  const days = billing === "yearly" ? 365 : 30;
+  const expiresAt = new Date(now.getTime() + days * 24 * 60 * 60 * 1000);
 
   await supabase.from("subscriptions").update({
     plan: "pro",
