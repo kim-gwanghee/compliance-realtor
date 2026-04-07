@@ -380,6 +380,7 @@ function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; 
             <div className="text-2xl font-bold mb-3">9,900<span className="text-sm font-normal">원/월</span></div>
             <ul className="text-xs space-y-1.5" style={{ color: "var(--text-secondary)" }}>
               <li>- 무제한 질문</li>
+              <li>- 관련 판례 검색</li>
               <li>- 대화 기록 저장</li>
               <li>- 북마크 기능</li>
             </ul>
@@ -1027,9 +1028,20 @@ export default function ChatPage() {
                     ) : (
                       <>
                         <MarkdownContent content={msg.content} />
+                        {/* 무료 사용자 판례 안내 배너 */}
+                        {user && plan !== "pro" && msg.id && !msg.content.startsWith("오류가 발생했습니다") && (
+                          <button
+                            onClick={() => setShowPricing(true)}
+                            className="w-full mt-2 pt-2 border-t flex items-center gap-2 text-xs transition-colors"
+                            style={{ borderColor: "var(--border-color)", color: "var(--text-muted)" }}
+                          >
+                            <span>⚖️</span>
+                            <span>프로 플랜에서는 <strong className="text-blue-600">관련 판례</strong>도 함께 제공됩니다</span>
+                          </button>
+                        )}
                         {/* Bookmark button for logged-in users */}
                         {user && msg.id && !msg.content.startsWith("오류가 발생했습니다") && (
-                          <div className="flex justify-end mt-2 pt-2 border-t" style={{ borderColor: "var(--border-color)" }}>
+                          <div className="flex justify-end mt-1 pt-1 border-t" style={{ borderColor: "var(--border-color)" }}>
                             <button
                               onClick={() => toggleBookmark(msg.id!)}
                               className="flex items-center gap-1 text-xs px-2 py-1 rounded-lg transition-colors"
