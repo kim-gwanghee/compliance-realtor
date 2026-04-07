@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import Link from "next/link";
 import { createSupabaseBrowser } from "@/lib/supabase";
 import type { User, Session } from "@supabase/supabase-js";
 
@@ -869,13 +868,6 @@ export default function ChatPage() {
           >
             {darkMode ? <SunIcon /> : <MoonIcon />}
           </button>
-          <Link
-            href="/community"
-            className="hidden sm:inline-block text-sm px-3 py-1.5 rounded-lg transition-colors"
-            style={{ color: "var(--text-secondary)" }}
-          >
-            커뮤니티
-          </Link>
           <button
             onClick={startNewConversation}
             className="text-xs sm:text-sm px-2 sm:px-3 py-1.5 rounded-lg transition-colors"
