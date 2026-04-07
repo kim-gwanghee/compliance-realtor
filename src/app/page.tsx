@@ -416,10 +416,8 @@ function PricingModal({ onClose, onSubscribe, loading }: { onClose: () => void; 
         <button
           onClick={() => onSubscribe(billing)}
           disabled={loading}
-          className="w-full py-3 rounded-xl text-sm font-medium transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
-          style={{ background: "#FEE500", color: "#191919" }}
+          className="w-full py-3 rounded-xl text-sm font-medium transition-colors flex items-center justify-center gap-2 disabled:opacity-50 bg-blue-600 text-white hover:bg-blue-700"
         >
-          <svg width="18" height="18" viewBox="0 0 18 18"><path fill="#191919" d="M9 1C4.58 1 1 3.79 1 7.21c0 2.17 1.45 4.08 3.64 5.18l-.93 3.44c-.08.28.24.5.48.34l4.11-2.72c.23.02.46.03.7.03 4.42 0 8-2.79 8-6.27C17 3.79 13.42 1 9 1z"/></svg>
           {loading ? "처리 중..." : billing === "monthly" ? "월 9,900원 구독하기" : "연 99,000원 구독하기"}
         </button>
 
@@ -537,11 +535,7 @@ export default function ChatPage() {
       });
       const data = await res.json();
       if (data.redirect_url) {
-        // 모바일이면 모바일 URL 사용
-        const isMobile = /iPhone|iPad|Android/i.test(navigator.userAgent);
-        window.location.href = isMobile && data.redirect_mobile_url
-          ? data.redirect_mobile_url
-          : data.redirect_url;
+        window.location.href = data.redirect_url;
       }
     } catch {
       alert("결제 요청에 실패했습니다. 다시 시도해주세요.");
