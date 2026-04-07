@@ -685,9 +685,9 @@ export default function ChatPage() {
     setError(null);
     setSidebarOpen(false);
 
-    // Save user message to DB
+    // Save user message to DB (프로 플랜만)
     let convId = currentConvId;
-    if (user) {
+    if (user && plan === "pro") {
       convId = await ensureConversation(text.trim());
       if (convId) {
         const msgId = await saveMessage(convId, "user", text.trim());
@@ -756,8 +756,8 @@ export default function ChatPage() {
 
       const assistantMsg: Message = { role: "assistant", content: fullContent };
 
-      // Save assistant message to DB
-      if (user && convId) {
+      // Save assistant message to DB (프로 플랜만)
+      if (user && plan === "pro" && convId) {
         const msgId = await saveMessage(convId, "assistant", fullContent);
         if (msgId) assistantMsg.id = msgId;
       }
@@ -909,7 +909,7 @@ export default function ChatPage() {
           style={{ background: "var(--bg-sidebar)", borderColor: "var(--border-color)" }}
         >
           {/* Conversation history (logged in) */}
-          {user && conversations.length > 0 && (
+          {user && plan === "pro" && conversations.length > 0 && (
             <>
               <h2 className="text-sm font-semibold mb-3 flex items-center gap-2" style={{ color: "var(--text-secondary)" }}>
                 <span>💬</span> 대화 기록
